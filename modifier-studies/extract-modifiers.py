@@ -92,6 +92,18 @@ with open('modifiers/all-modifiers.txt', 'w') as allfile:
         print(name, file=allfile)
 
 with open('modifiers/all-modifiers.json', 'w') as jsonfile:
+    for name in modifiers:
+
+        # Convert strength value from unicode
+        if modifiers[name]['strength'] == '★★★':
+            modifiers[name]['strength'] = 'high'
+
+        elif modifiers[name]['strength'] == '★★☆':
+            modifiers[name]['strength'] = 'med'
+
+        elif modifiers[name]['strength'] == '★☆☆':
+            modifiers[name]['strength'] = 'low'
+
     json.dump(modifiers, jsonfile, indent=2)
     
 print('Done!')
