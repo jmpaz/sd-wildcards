@@ -1,0 +1,3 @@
+[submodule "noodle-soup"]
+	path = noodle-soup
+	url = https://github.com/jmpaz/noodle-soup-wildcards.git
