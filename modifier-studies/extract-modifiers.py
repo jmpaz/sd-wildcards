@@ -10,12 +10,15 @@ modifiers = {}
 # Create the directory structure if it doesn't already exist
 if not os.path.exists('modifiers'):
     os.makedirs('modifiers')
+    print('Created modifiers/')
 
 if not os.path.exists('modifiers/strength'):
     os.makedirs('modifiers/strength')
+    print('Created modifiers/strength/')
 
 if not os.path.exists('modifiers/tags'):
     os.makedirs('modifiers/tags')
+    print('Created modifiers/tags/')
 
 
 # Get column indexes for Name, Strength, and Tags from the first row of the csv file
@@ -26,6 +29,8 @@ with open('source.csv', 'r') as csvfile:
     strength_index = headers.index('Strength')
     tags_index = headers.index('Tags')
 
+    print('Starting to parse source.csv...')
+    
     # Iterate through each row of the csv file starting after column headers
     for row in reader:
 
@@ -82,11 +87,11 @@ with open('source.csv', 'r') as csvfile:
 
 
 # Create text and json files containing all Name values from the csv
-with open('modifiers.txt', 'w') as modifiersfile:
+with open('modifiers/all-modifiers.txt', 'w') as allfile:
     for name in modifiers:
-        print(name, file=modifiersfile)
+        print(name, file=allfile)
 
-with open('modifiers.json', 'w') as jsonfile:
+with open('modifiers/all-modifiers.json', 'w') as jsonfile:
     json.dump(modifiers, jsonfile, indent=2)
     
 print('Done!')
