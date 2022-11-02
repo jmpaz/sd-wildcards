@@ -21,14 +21,14 @@ if not os.path.exists('modifiers/tags'):
 
 
 # Get column indexes for Name, Strength, and Tags from the first row of the csv file
-with open('source.csv', 'r') as csvfile:
+with open('modifiers.csv', 'r') as csvfile:
     reader = csv.reader(csvfile, delimiter=';')
     headers = next(reader)
     name_index = headers.index('Name')
     strength_index = headers.index('Strength')
     tags_index = headers.index('Tags')
 
-    print('Starting to parse source.csv...')
+    print('Starting to parse modifiers.csv...')
     
     # Iterate through each row of the csv file starting after column headers
     for row in reader:
