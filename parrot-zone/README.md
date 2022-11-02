@@ -1,4 +1,4 @@
-# [Parrot Zone](parrotzone.art) Wildcards
+# [🦜 parrot zone](https://parrotzone.art) wildcards
 
 Data sourced from the following resources:
 - [🎨
