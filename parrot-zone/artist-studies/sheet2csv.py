@@ -45,8 +45,8 @@ def write_csv(values):
         writer = csv.writer(csvfile)
         for row in values:
 
-            # Strip newlines, trailing commas and double spaces from each cell
-            cleaned_row = [cell.replace('\n', ' ').rstrip(',').replace('  ', ' ') for cell in row]
+            # Strip extra characters from each cell
+            cleaned_row = [cell.replace('\n', ' ').replace('  ', ' ').rstrip(',') if cell != "-" else "" for cell in row]
 
             writer.writerow(cleaned_row)
 

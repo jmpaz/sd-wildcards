@@ -830,7 +830,7 @@ Gammell,Stephen,Yes,x,Yes,x,"dark, children's illustration, high contrast, horro
 Gangloff,Hope,Yes,x,Yes,x,"high contrast, vibrant, portrait",N/A,sureailabs,x,x,6
 Garant,Alex,Yes,x,Yes,x,"portrait, figurativism, surrealism",N/A,sureailabs,x,x,14
 Garber,Daniel,Yes,x,Yes,x,"impressionism, landscape, realism",1958,sureailabs,x,x,8
-Garcin,Gilbert,Yes,x,Yes,-,"photography, monochromatic, surrealism",2020,sureailabs,x,x,13
+Garcin,Gilbert,Yes,x,Yes,,"photography, monochromatic, surrealism",2020,sureailabs,x,x,13
 Garmash,Inessa,Yes,x,Yes,x,"portrait, impressionism, romanticism",N/A,proximasan,x,x,12
 Garmash,Michael,Yes,x,Yes,x,"impressionism, scene, portrait",N/A,sureailabs,x,x,12
 Gaudí,Antoni,Yes,x,Yes,x,"architecture, angular",1926,sureailabs,x,x,7
@@ -1900,7 +1900,7 @@ Ranson,Paul,Yes,x,Yes,x,"abstract, vibrant, art nouveau",1909,sureailabs,x,x,7
 Raphael,N/A,Yes,x,,,renaissance,1520,sureailabs,x,x,3
 Rauschenberg,Robert,Yes,x,Yes,x,"collage, abstract",2008,sureailabs,x,x,1
 Ravilious,Eric,Yes,x,Yes,x,,1942,sureailabs,x,x,11
-Ray,Man,Yes,x,,-,"monochromatic, high contrast",1976,sureailabs,x,x,3
+Ray,Man,Yes,x,,,"monochromatic, high contrast",1976,sureailabs,x,x,3
 Razell,Aliza,Yes,x,Yes,x,"photography, fantasy, surrealism",N/A,sureailabs,x,x,11
 Rea,Joel,Yes,x,Yes,x,"surrealism, landscape, scene",N/A,sureailabs,x,x,11
 Redlin,Terry,Yes,x,Yes,x,"landscape, luminism, nature",2016,sureailabs,x,x,13
@@ -1909,13 +1909,13 @@ Redon,Odilon,Yes,x,Yes,x,"impressionism, symbolist, low contrast",1916,EErratica
 Redondo,Vicente Romero,Yes,x,Yes,x,"figurativism, scene",N/A,sureailabs,x,x,13
 Reggianini,Vittorio,Yes,x,Yes,x,"scene, renaissance",1938,sureailabs,x,x,13
 Rego,Paula,Yes,x,Yes,x,"scene, portrait",2022,sureailabs,x,x,11
-Reiffel,Charles,Yes,x,,-,,1942,sureailabs,x,x,11
+Reiffel,Charles,Yes,x,,,,1942,sureailabs,x,x,11
 Rekunenko,Valentin,Yes,x,Yes,x,"scene, detailed, fantasy, surrealism",N/A,sureailabs,x,x,11
-Remington,Frederic,Yes,x,,-,"impressionism, realism, scene, horses",1909,sureailabs,x,x,9
+Remington,Frederic,Yes,x,,,"impressionism, realism, scene, horses",1909,sureailabs,x,x,9
 Remnev,Andrey,Yes,x,Yes,x,"baroque, renaissance, portrait, character",N/A,sureailabs,x,x,12
-Reni,Guido,Yes,x,,-,,1642,sureailabs,x,x,12
-Renoir,Pierre-Auguste,Yes,x,,-,"impressionism, realism, portrait, scene",1919,sureailabs,x,x,3
-Renshaw,David,Yes,x,,-,,N/A,sureailabs,x,x,12
+Reni,Guido,Yes,x,,,,1642,sureailabs,x,x,12
+Renoir,Pierre-Auguste,Yes,x,,,"impressionism, realism, portrait, scene",1919,sureailabs,x,x,3
+Renshaw,David,Yes,x,,,,N/A,sureailabs,x,x,12
 Repin,Ilya,Yes,x,Yes,x,"realism, scene, portrait, impressionism",1930,KyrickYoung,x,x,2
 Ressia,Romina,Yes,x,,,,N/A,sureailabs,x,x,12
 Restout the Younger,Jean,Yes,x,,,,1768,sureailabs,x,x,12
@@ -1925,11 +1925,11 @@ Reynolds,Joshua,Yes,x,Yes,x,"portrait, romanticism",1792,sureailabs,x,x,12
 RHADS,N/A,Yes,x,Yes,x,"digital, surrealism, landscape, vibrant",N/A,KyrickYoung,x,x,2,AKA Artem Chebokha
 Rhead,Louis,Yes,x,Yes,x,"art nouveau, detailed",1926,sureailabs,x,x,8
 Rhodan,Perry,Yes,x,,,,N/A,sureailabs,x,x,16
-Ribemont-Dessaignes,Georges,Yes,x,,-,,1974,sureailabs,x,x,12
-Richards,William Trost,Yes,x,,-,,1905,sureailabs,x,x,11
-Richter,Gerhard,Yes,x,,-,"abstract, realism",N/A,proximasan,x,x,5
+Ribemont-Dessaignes,Georges,Yes,x,,,,1974,sureailabs,x,x,12
+Richards,William Trost,Yes,x,,,,1905,sureailabs,x,x,11
+Richter,Gerhard,Yes,x,,,"abstract, realism",N/A,proximasan,x,x,5
 Riddell,Chris,Yes,x,Yes,x,"cartoon, children's illustration, watercolor",N/A,sureailabs,x,x,12
-Rigaud,Hyacinthe,Yes,x,,-,"baroque, portrait",1743,sureailabs,x,x,9
+Rigaud,Hyacinthe,Yes,x,,,"baroque, portrait",1743,sureailabs,x,x,9
 Rigney,Brad,Yes,x,Yes,x,"scene, fantasy, character, dark",N/A,sureailabs,x,x,12
 Riley,Bridget,Yes,x,Yes,x,"abstract, monochromatic, colorful, angular",N/A,sureailabs,x,x,12
 Ringgold,Faith,Yes,x,,,"melanin, pop art, abstract, expressionism",N/A,sureailabs,x,x,8
@@ -2208,8 +2208,8 @@ Storch,Sally,Yes,x,,,,N/A,proximasan,x,x,12
 Stout,William,Yes,x,Yes,x,"detailed, dark, fantasy",N/A,sureailabs,x,x,4
 Strand,Paul,Yes,x,Yes,x,"photography, monochromatic",1976,sureailabs,x,x,9
 Stranka,Martin,Yes,x,,,,N/A,sureailabs,x,x,16
-Streeton,Arthur,Yes,x,,-,"landscape, impressionism",1943,sureailabs,x,x,11
-Strid,Linnea,Yes,x,Yes,-,"portrait, photography",N/A,proximasan,x,x,11
+Streeton,Arthur,Yes,x,,,"landscape, impressionism",1943,sureailabs,x,x,11
+Strid,Linnea,Yes,x,Yes,,"portrait, photography",N/A,proximasan,x,x,11
 Strino,Gianni,Yes,x,,,,N/A,sureailabs,x,x,16
 Strozzi,Bernardo,Yes,x,,,,1644,sureailabs,x,x,16
 Strudwick,John Melhuish,Yes,x,,,,1937,sureailabs,x,x,16
@@ -2285,7 +2285,7 @@ Timm,Bruce,Yes,x,,,"cartoon, high contrast",N/A,sureailabs,x,x,10
 Tindle,David,Yes,x,,,,N/A,proximasan,x,x,12
 Tintoretto,N/A,Yes,x,Yes,x,"dark, renaissance",1594,sureailabs,x,x,7
 Tissot,James,Yes,x,Yes,x,"impressionis, realism, scene",1902,sureailabs,x,x,7
-Titian,N/A,Yes,x,,-,"renaissance, dark",1576,sureailabs,x,x,4
+Titian,N/A,Yes,x,,,"renaissance, dark",1576,sureailabs,x,x,4
 Tito,Ettore,Yes,x,Yes,x,"realism, symbolism, seascape, scene, cityscape",1941,sureailabs,x,x,9
 Tocchini,Greg,Yes,x,,,,N/A,sureailabs,x,x,16
 Toft,Sam,Yes,x,,,,N/A,proximasan,x,x,12
@@ -2304,14 +2304,14 @@ Toulmouche,Auguste,Yes,x,,,,1890,sureailabs,x,x,16
 Toussaint,Fernand,Yes,x,Yes,x,"impressionism, cityscape, art nouveau, still-life",1956,sureailabs,x,x,9
 Tran,Ross,Yes,x,Yes,x,"portrait, digital",N/A,proximasan,x,x,1
 Traquair,Phoebe Anna,Yes,x,Yes,x,"art nouveau, colorful",1936,proximasan,x,x,11
-Traylor,Bill,Yes,x,,-,,1949,sureailabs,x,x,12
+Traylor,Bill,Yes,x,,,,1949,sureailabs,x,x,12
 Treacy,Philip,Yes,x,Yes,x,"hats, portrait, photography",N/A,sureailabs,x,x,11
 Tremblay,Claudia,Yes,x,,,,N/A,sureailabs,x,x,16
 Tresoldi,Edoardo,Yes,x,,,,N/A,sureailabs,x,x,15
 Tress,Arthur,Yes,x,,,,N/A,sureailabs,x,x,15
 Trimpe,Herb,Yes,x,,,,2015,sureailabs,x,x,14
 Trotter,Kathryn Morris,Yes,x,Yes,x,"impressionism, figurativism",N/A,proximasan,x,x,10
-Truitt,Anne,Yes,x,,-,"sculpture, abstract",2004,sureailabs,x,x,10
+Truitt,Anne,Yes,x,,,"sculpture, abstract",2004,sureailabs,x,x,10
 Trumbull,John,Yes,x,,,,1843,sureailabs,x,x,14
 Tsang,Johnson,Yes,x,,,,N/A,sureailabs,x,x,14
 Tuke,Henry Scott,Yes,x,,,,1929,sureailabs,x,x,14
@@ -2328,10 +2328,10 @@ Twachtman,John Henry,Yes,x,,,,1902,sureailabs,x,x,16
 Tydeman,Naomi,Yes,x,,,,N/A,sureailabs,x,x,16
 Uccello,Paolo,Yes,x,Yes,x,renaissance,1475,sureailabs,x,x,11
 Uglow,Euan,Yes,x,Yes,x,"still life, portrait, figurativism",2000,sureailabs,x,x,11
-Uhlig,Daniela,Yes,x,,-,"digital, portrait, character",N/A,sureailabs,x,x,7
+Uhlig,Daniela,Yes,x,,,"digital, portrait, character",N/A,sureailabs,x,x,7
 Uminga,Chris,Yes,x,No,x,"cartoon, dark",N/A,proximasan,x,x,10
 Uno,Aquirax,Yes,x,Yes,x,"fantasy, vibrant, collage, portrait",N/A,proximasan,x,x,8
-Urasawa,Naoki,Yes,x,,-,"comics, manga",N/A,sureailabs,x,x,10
+Urasawa,Naoki,Yes,x,,,"comics, manga",N/A,sureailabs,x,x,10
 Urschel,Jan,Yes,x,Yes,x,"dark, digital, landscape, sci-fi",N/A,sureailabs,x,x,11
 Ury,Lesser,Yes,x,Yes,x,"impressionism, streetscape, cityscape",1931,sureailabs,x,x,11
 Utamaro,Kitagawa,Yes,x,Yes,x,ukiyo-e,1806,sureailabs,x,x,9
@@ -2577,106 +2577,106 @@ Zumthor,Peter,Yes,x,Yes,x,,N/A,sureailabs,x,x,8
 Zupa,Ravi,Yes,x,Yes,x,,N/A,sureailabs,x,x,8
 Vivier,Camille,Unsure,x,,,,N/A,sureailabs,x,x,14,CLIP recognition is very weak
 Yata,Hannah,Unsure,x,Yes,,"surrealism, psychedelic, detailed",N/A,sureailabs,x,x,14,CLIP recognition is very weak
-Aagaard,Zacharias Martin,No,x,No,x,-,1913,KyrickYoung,x,x,2
-Aaltonen,Wäinö,No,x,,,-,1966,sureailabs,x,x,3
-Abbott,Elenore,No,x,,,-,1935,EErratica,x,x,7
-Abe,Yoshitoshi,No,x,,,-,N/A,sureailabs,x,x,5
-Adams,Scott,No,x,,,-,N/A,sureailabs,x,x,7
+Aagaard,Zacharias Martin,No,x,No,x,,1913,KyrickYoung,x,x,2
+Aaltonen,Wäinö,No,x,,,,1966,sureailabs,x,x,3
+Abbott,Elenore,No,x,,,,1935,EErratica,x,x,7
+Abe,Yoshitoshi,No,x,,,,N/A,sureailabs,x,x,5
+Adams,Scott,No,x,,,,N/A,sureailabs,x,x,7
 Adams,Tracey,No,x,No,x,,N/A,sureailabs,x,x,12
-Afshar,Petros,No,x,Yes,x,-,N/A,sureailabs,x,x,5
-Aida,Makoto,No,x,,,-,N/A,sureailabs,x,x,5
-Al Gazzar,Abdel Hadi,No,x,,,-,1966,sureailabs,x,x,1
-Al Halyan,Moosa,No,x,,,-,N/A,sureailabs,x,x,1
-Albani,Francesco,No,x,,,-,1660,proximasan,x,x,12
-Alexander,Lena,No,x,,,-,1983,sureailabs,x,x,9
-Allers,Christian Wilhelm,No,x,,,-,1915,sureailabs,x,x,5
+Afshar,Petros,No,x,Yes,x,,N/A,sureailabs,x,x,5
+Aida,Makoto,No,x,,,,N/A,sureailabs,x,x,5
+Al Gazzar,Abdel Hadi,No,x,,,,1966,sureailabs,x,x,1
+Al Halyan,Moosa,No,x,,,,N/A,sureailabs,x,x,1
+Albani,Francesco,No,x,,,,1660,proximasan,x,x,12
+Alexander,Lena,No,x,,,,1983,sureailabs,x,x,9
+Allers,Christian Wilhelm,No,x,,,,1915,sureailabs,x,x,5
 Allinson,Adrian Paul,No,x,No,x,,1959,sureailabs,x,x,12
-Amani,Charly,No,x,,,-,N/A,sureailabs,x,x,7
-Amano,Yumihiko,No,x,No,x,-,N/A,KyrickYoung,x,x,2
-Amaringo,Pablo,No,x,,,-,2009,sureailabs,x,x,6
+Amani,Charly,No,x,,,,N/A,sureailabs,x,x,7
+Amano,Yumihiko,No,x,No,x,,N/A,KyrickYoung,x,x,2
+Amaringo,Pablo,No,x,,,,2009,sureailabs,x,x,6
 Ancher,Helga,No,x,No,x,,1964,sureailabs,x,x,12
-Angus,Glen,No,x,No,x,-,2007,KyrickYoung,x,x,2
+Angus,Glen,No,x,No,x,,2007,KyrickYoung,x,x,2
 Anno,Moyoco,No,x,No,x,,N/A,sureailabs,x,x,12
-Antigna,Alexandre,No,x,,,-,1878,sureailabs,x,x,5
-Aoki,Shigeru,No,x,,,-,1911,sureailabs,x,x,7
-Aoyama,Tokio,No,x,No,x,-,N/A,sureailabs,x,x,5
-Arakawa,Hiromu,No,x,,,-,N/A,sureailabs,x,x,5
-Arinouchkine,Andréi,No,x,,,-,N/A,sureailabs,x,x,7
-Arms Botke,Jessie,No,x,,,-,1971,sureailabs,x,x,5
-Aronson,David,No,x,,,-,2015,sureailabs,x,x,3
+Antigna,Alexandre,No,x,,,,1878,sureailabs,x,x,5
+Aoki,Shigeru,No,x,,,,1911,sureailabs,x,x,7
+Aoyama,Tokio,No,x,No,x,,N/A,sureailabs,x,x,5
+Arakawa,Hiromu,No,x,,,,N/A,sureailabs,x,x,5
+Arinouchkine,Andréi,No,x,,,,N/A,sureailabs,x,x,7
+Arms Botke,Jessie,No,x,,,,1971,sureailabs,x,x,5
+Aronson,David,No,x,,,,2015,sureailabs,x,x,3
 Art,Kubisi,No,x,,,,N/A,sureailabs,x,x,13
 Asghar,Anas,No,x,,,,N/A,sureailabs,x,x,13
-Auffray,Marie-Thérèse,No,x,,,-,1990,sureailabs,x,x,3
-Avon,John,No,x,,,-,N/A,sureailabs,x,x,5
-Avril I,Jean-Jacques,No,x,,,-,1831,sureailabs,x,x,10
-Aydogdu,Aykut,No,x,,,-,N/A,proximasan,x,x,10
+Auffray,Marie-Thérèse,No,x,,,,1990,sureailabs,x,x,3
+Avon,John,No,x,,,,N/A,sureailabs,x,x,5
+Avril I,Jean-Jacques,No,x,,,,1831,sureailabs,x,x,10
+Aydogdu,Aykut,No,x,,,,N/A,proximasan,x,x,10
 Bá,Gabriel,No,x,,,,N/A,sureailabs,x,x,14
-Baizley,John,No,x,No,x,-,N/A,sureailabs,x,x,1
-Balbusso,Anna and Elena,No,x,No,x,-,N/A,KyrickYoung,x,x,2
-Barbucci,Alessandro,No,x,,,-,N/A,proximasan,x,x,10
-Barceló,Tomàs,No,x,,,-,N/A,sureailabs,x,x,8
-Barra,Didier,No,x,,,-,1656,sureailabs,x,x,1,AKA Monsù Desiderio
+Baizley,John,No,x,No,x,,N/A,sureailabs,x,x,1
+Balbusso,Anna and Elena,No,x,No,x,,N/A,KyrickYoung,x,x,2
+Barbucci,Alessandro,No,x,,,,N/A,proximasan,x,x,10
+Barceló,Tomàs,No,x,,,,N/A,sureailabs,x,x,8
+Barra,Didier,No,x,,,,1656,sureailabs,x,x,1,AKA Monsù Desiderio
 Barton,Del Kathryn,No,x,,,,N/A,proximasan,x,x,13
-Bashkirtseff,Marie,No,x,,,-,1884,sureailabs,x,x,5
-Baskin,Leonard,No,x,,,-,2000,sureailabs,x,x,3
-Basset,Françoise,No,x,,,-,1797,sureailabs,x,x,10
-Battiss,Walter,No,x,No,x,-,1982,sureailabs,x,x,12
-Bauck,Joanna,No,x,No,x,-,1926,sureailabs,x,x,12
-Bawa,Manjit,No,x,No,x,-,2008,sureailabs,x,x,12
+Bashkirtseff,Marie,No,x,,,,1884,sureailabs,x,x,5
+Baskin,Leonard,No,x,,,,2000,sureailabs,x,x,3
+Basset,Françoise,No,x,,,,1797,sureailabs,x,x,10
+Battiss,Walter,No,x,No,x,,1982,sureailabs,x,x,12
+Bauck,Joanna,No,x,No,x,,1926,sureailabs,x,x,12
+Bawa,Manjit,No,x,No,x,,2008,sureailabs,x,x,12
 Bechtle,Robert,No,x,No,x,"photorealism, streetscape",2020,proximasan,x,x,13
 Becker,Florianne,No,x,No,x,,N/A,proximasan,x,x,12
-Bedulenko,Max,No,x,,,-,N/A,sureailabs,x,x,5
-Beihong,Xu,No,x,,,-,1953,proximasan,x,x,10
+Bedulenko,Max,No,x,,,,N/A,sureailabs,x,x,5
+Beihong,Xu,No,x,,,,1953,proximasan,x,x,10
 Belarski,Rudolph,No,x,Yes,x,"scene, comics",N/A,sureailabs,x,x,13
 Bell,Pedro,No,x,,,"collage, abstract",2019,proximasan,x,x,13
 Bellange,Jacques,No,x,,,,1616,sureailabs,x,x,13
-Bendre,Narayan Shridhar,No,x,,,-,1992,proximasan,x,x,10
+Bendre,Narayan Shridhar,No,x,,,,1992,proximasan,x,x,10
 Bennett,Joe,No,x,,,,N/A,sureailabs,x,x,13
-Benning,Richard,No,x,,,-,N/A,sureailabs,x,x,7
+Benning,Richard,No,x,,,,N/A,sureailabs,x,x,7
 Benscoter,Wes,No,x,,,horror,N/A,sureailabs,x,x,15
 Berenstain,Jan,No,x,,,,2012,sureailabs,x,x,13
-Berg,Aase,No,x,No,x,-,N/A,KyrickYoung,x,x,2
-Bernea,Horia,No,x,,,-,2000,sureailabs,x,x,3
+Berg,Aase,No,x,No,x,,N/A,KyrickYoung,x,x,2
+Bernea,Horia,No,x,,,,2000,sureailabs,x,x,3
 Bevan,Robert,No,x,Yes,x,"watercolor, landscape",1925,sureailabs,x,x,13
 Beyit,Kerem,No,x,,,,N/A,sureailabs,x,x,14
-Bhattacharjee,Bikash,No,x,,,-,2006,sureailabs,x,x,7
-Biddle,George,No,x,,,-,1973,sureailabs,x,x,3
-Bissette,Stephen,No,x,,,-,N/A,sureailabs,x,x,4
-Blanché,Pascal,No,x,No,x,-,N/A,sureailabs,x,x,2
-Blasingame,Marguerite,No,x,No,x,-,1947,KyrickYoung,x,x,2
-Bleyl,Fritz,No,x,,,-,1966,sureailabs,x,x,3
-Bliss,Stephen,No,x,,,-,N/A,sureailabs,x,x,8
-Bloch,Albert,No,x,,,-,1961,proximasan,x,x,10
-Bloom,Hyman,No,x,,,-,2009,sureailabs,x,x,3
-Blume,Peter,No,x,,,-,1992,sureailabs,x,x,3
-Bocchio,Carlo,No,x,,,-,N/A,sureailabs,x,x,2
-Bodo,Camille-Pierre Pambu,No,x,,,-,N/A,sureailabs,x,x,2
-Bogen,Alexander,No,x,,,-,2010,proximasan,x,x,1
-Bogomazov,Oleksandr,No,x,,,-,1930,sureailabs,x,x,8
+Bhattacharjee,Bikash,No,x,,,,2006,sureailabs,x,x,7
+Biddle,George,No,x,,,,1973,sureailabs,x,x,3
+Bissette,Stephen,No,x,,,,N/A,sureailabs,x,x,4
+Blanché,Pascal,No,x,No,x,,N/A,sureailabs,x,x,2
+Blasingame,Marguerite,No,x,No,x,,1947,KyrickYoung,x,x,2
+Bleyl,Fritz,No,x,,,,1966,sureailabs,x,x,3
+Bliss,Stephen,No,x,,,,N/A,sureailabs,x,x,8
+Bloch,Albert,No,x,,,,1961,proximasan,x,x,10
+Bloom,Hyman,No,x,,,,2009,sureailabs,x,x,3
+Blume,Peter,No,x,,,,1992,sureailabs,x,x,3
+Bocchio,Carlo,No,x,,,,N/A,sureailabs,x,x,2
+Bodo,Camille-Pierre Pambu,No,x,,,,N/A,sureailabs,x,x,2
+Bogen,Alexander,No,x,,,,2010,proximasan,x,x,1
+Bogomazov,Oleksandr,No,x,,,,1930,sureailabs,x,x,8
 Boily,Louis-Léopold,No,x,,,,1845,sureailabs,x,x,15
-Bolton,John,No,x,,,-,N/A,sureailabs,x,x,4
-Bonner,Paul,No,x,,,-,N/A,sureailabs,x,x,5
+Bolton,John,No,x,,,,N/A,sureailabs,x,x,4
+Bonner,Paul,No,x,,,,N/A,sureailabs,x,x,5
 Bonson,Tom,No,x,,,,N/A,proximasan,x,x,13
-Boquet,François,No,x,,,-,1987,sureailabs,x,x,10
-Bouzianis,George,No,x,,,-,1959,sureailabs,x,x,3
+Boquet,François,No,x,,,,1987,sureailabs,x,x,10
+Bouzianis,George,No,x,,,,1959,sureailabs,x,x,3
 Bracht,Eugen,No,x,,,,1921,proximasan,x,x,16
-Brauer,Arik,No,x,,,-,2021,sureailabs,x,x,2
-Bredenbekk,Børge,No,x,,,-,N/A,sureailabs,x,x,5
-Breton,Elisa,No,x,,,-,2000,KyrickYoung,x,x,2
-Bridgwater,Emmy,No,x,,,-,1999,KyrickYoung,x,x,2
-Britenbucher,Renie,No,x,,,-,N/A,KyrickYoung,x,x,1
+Brauer,Arik,No,x,,,,2021,sureailabs,x,x,2
+Bredenbekk,Børge,No,x,,,,N/A,sureailabs,x,x,5
+Breton,Elisa,No,x,,,,2000,KyrickYoung,x,x,2
+Bridgwater,Emmy,No,x,,,,1999,KyrickYoung,x,x,2
+Britenbucher,Renie,No,x,,,,N/A,KyrickYoung,x,x,1
 Broom,Lee,No,x,,,,N/A,sureailabs,x,x,15
-Brosnan,Pierce,No,x,,,-,N/A,KyrickYoung,x,x,2
+Brosnan,Pierce,No,x,,,,N/A,KyrickYoung,x,x,2
 Brundage,Margaret,No,x,No,x,,1976,sureailabs,x,x,13
 Brunet,Marc,No,x,,,,N/A,proximasan,x,x,16
 Bruyn the Elder,Barthel,No,x,,,,1555,proximasan,x,x,16
 Bruyn the Younger,Barthel,No,x,,,,1610,proximasan,x,x,16
 Bua,Justin,No,x,,,surrealism,N/A,proximasan,x,x,16
-Buffet,Warren,No,x,,,-,N/A,sureailabs,x,x,1
+Buffet,Warren,No,x,,,,N/A,sureailabs,x,x,1
 Busciglio,Nicholas,No,x,,,"figurativism, impressionism",N/A,proximasan,x,x,16
-Bush,George,No,x,,,-,N/A,KyrickYoung,x,x,2
+Bush,George,No,x,,,,N/A,KyrickYoung,x,x,2
 Busiek,Kurt,No,x,,,,N/A,proximasan,x,x,16
-Buzzelli,Guido,No,x,,,-,1992,sureailabs,x,x,10
+Buzzelli,Guido,No,x,,,,1992,sureailabs,x,x,10
 Caffi,Ippolito,No,x,,,,1866,proximasan,x,x,16
 Calder,Alexander Milne,No,x,No,x,"sculpture, ",1923,sureailabs,x,x,6
 Caliari,Benedetto,No,x,,,,1598,proximasan,x,x,16
@@ -2694,585 +2694,585 @@ Carte,Anto,No,x,,,,1954,sureailabs,x,x,3
 Carter,Keith,No,x,,,,N/A,proximasan,x,x,16
 Castiglione,Giovanni Benedetto,No,x,,,,1664,KyrickYoung,x,x,2
 Catargi,Henri,No,x,No,x,"impressionism, still life, landscape",1976,sureailabs,x,x,12
-Cawén,Alvar,No,x,,,-,1935,sureailabs,x,x,3
-Cearley,Clint,No,x,,,-,N/A,proximasan,x,x,9
-Chan,Pierre-Mony,No,x,No,x,-,N/A,sureailabs,x,x,12
-Chebokha,Artem,No,x,,,-,N/A,KyrickYoung,x,x,1,AKA RHADS.
-Chernik,Echo,No,x,,,-,N/A,sureailabs,x,x,8
+Cawén,Alvar,No,x,,,,1935,sureailabs,x,x,3
+Cearley,Clint,No,x,,,,N/A,proximasan,x,x,9
+Chan,Pierre-Mony,No,x,No,x,,N/A,sureailabs,x,x,12
+Chebokha,Artem,No,x,,,,N/A,KyrickYoung,x,x,1,AKA RHADS.
+Chernik,Echo,No,x,,,,N/A,sureailabs,x,x,8
 Chevalier,Li,No,x,,,,N/A,proximasan,x,x,13
 Chiang,Doug,No,x,,,,N/A,sureailabs,x,x,15
 Chin,Zeen,No,x,No,x,,N/A,proximasan,x,x,12
 Chuangxing,Zeng,No,x,,,,N/A,sureailabs,x,x,13
 Chung,Peter,No,x,,,,N/A,sureailabs,x,x,14
 Cinar,Yildiray,No,x,,,,N/A,sureailabs,x,x,14
-CLAMP,N/A,No,x,,,-,N/A,proximasan,x,x,5
+CLAMP,N/A,No,x,,,,N/A,proximasan,x,x,5
 Cold,Chris,No,x,,,,N/A,sureailabs,x,x,16
 Coolidge,Cassius Marcellus,No,x,No,x,"scene, dogs",1934,sureailabs,x,x,7
-Copley,William,No,x,,,-,1996,KyrickYoung,x,x,1
-Costa,Giovanni (Nino),No,x,,,-,1903,sureailabs,x,x,5
-Cotton,Brent,No,x,,,-,N/A,sureailabs,x,x,10
+Copley,William,No,x,,,,1996,KyrickYoung,x,x,1
+Costa,Giovanni (Nino),No,x,,,,1903,sureailabs,x,x,5
+Cotton,Brent,No,x,,,,N/A,sureailabs,x,x,10
 Coville,Bruce,No,x,,,,N/A,sureailabs,x,x,16
 Craft,Kinuko Y.,No,x,,,,N/A,sureailabs,x,x,16
-Crawford,Ralston,No,x,,,-,1978,sureailabs,x,x,9
-Cronenberg,David,No,x,,,-,N/A,sureailabs,x,x,5
-Cross,Peter,No,x,,,-,N/A,sureailabs,x,x,3
-Croy,Peter,No,x,,,-,N/A,sureailabs,x,x,3
-Csontváry Kosztka,Tivadar,No,x,,,-,1919,sureailabs,x,x,3
-Currie,Justin,No,x,,,-,N/A,sureailabs,x,x,7
-da Silva,João Artur,No,x,,,-,N/A,sureailabs,x,x,2
+Crawford,Ralston,No,x,,,,1978,sureailabs,x,x,9
+Cronenberg,David,No,x,,,,N/A,sureailabs,x,x,5
+Cross,Peter,No,x,,,,N/A,sureailabs,x,x,3
+Croy,Peter,No,x,,,,N/A,sureailabs,x,x,3
+Csontváry Kosztka,Tivadar,No,x,,,,1919,sureailabs,x,x,3
+Currie,Justin,No,x,,,,N/A,sureailabs,x,x,7
+da Silva,João Artur,No,x,,,,N/A,sureailabs,x,x,2
 Dąbrowski,Kazimierz,No,x,No,x,,1994,sureailabs,x,x,12
 Dale,Jeremy,No,x,,,,2014,sureailabs,x,x,13
-Damast,Elba,No,x,,,-,2005,sureailabs,x,x,2
-Das,Sunil,No,x,No,x,-,2015,proximasan,x,x,11
+Damast,Elba,No,x,,,,2005,sureailabs,x,x,2
+Das,Sunil,No,x,No,x,,2015,proximasan,x,x,11
 Davis,Alan,No,x,Yes,x,comics,N/A,sureailabs,x,x,11
-Day,Anthony,No,x,No,x,-,N/A,sureailabs,x,x,12
+Day,Anthony,No,x,No,x,,N/A,sureailabs,x,x,12
 de Critz,Emmanuel,No,x,No,x,"baroque, portrait",1665,sureailabs,x,x,12
-De Nomé,François,No,x,,,-,1620,sureailabs,x,x,1,AKA Monsù Desiderio
-De Ro,Jonas,No,x,,,-,N/A,sureailabs,x,x,12
-De Smet,Gustave,No,x,,,-,1943,sureailabs,x,x,3
-de Souza-Cardoso,Amadeo,No,x,,,-,1918,sureailabs,x,x,3
-Death Burger,N/A,No,x,,,-,N/A,KyrickYoung,x,x,2,AKA Josan Gonzalez
-del Barco,Jesús Meneses,No,x,,,-,2005,sureailabs,x,x,8
+De Nomé,François,No,x,,,,1620,sureailabs,x,x,1,AKA Monsù Desiderio
+De Ro,Jonas,No,x,,,,N/A,sureailabs,x,x,12
+De Smet,Gustave,No,x,,,,1943,sureailabs,x,x,3
+de Souza-Cardoso,Amadeo,No,x,,,,1918,sureailabs,x,x,3
+Death Burger,N/A,No,x,,,,N/A,KyrickYoung,x,x,2,AKA Josan Gonzalez
+del Barco,Jesús Meneses,No,x,,,,2005,sureailabs,x,x,8
 Del Rio,Eddie,No,x,,,,N/A,sureailabs,x,x,14
 Deschamps,Eric,No,x,Yes,x,"fantasy, sci-fi, digital",N/A,sureailabs,x,x,12
-Desiderio,Monsù,No,x,,,-,1620,sureailabs,x,x,1
+Desiderio,Monsù,No,x,,,,1620,sureailabs,x,x,1
 Deyneka,Aleksandr,No,x,Yes,x,"realism, expressionism",1969,sureailabs,x,x,12
-Di Cavalcanti,Emiliano,No,x,,,-,1976,sureailabs,x,x,3
-Djukaric,Dusan,No,x,,,-,N/A,EErratica,x,x,5
-Dobuzhinsky,Mstislav,No,x,,,-,1957,sureailabs,x,x,3
-Dohanos,Stevan,No,x,,,-,1994,KyrickYoung,x,x,2
-Domaradzki,Grzegorz,No,x,,,-,N/A,sureailabs,x,x,5
-Domínguez,Óscar,No,x,,,-,1957,KyrickYoung,x,x,2
-Donghi,Antonio,No,x,,,-,1963,proximasan,x,x,12
-Dongjun Lu,Russell,No,x,,,-,N/A,sureailabs,x,x,7
+Di Cavalcanti,Emiliano,No,x,,,,1976,sureailabs,x,x,3
+Djukaric,Dusan,No,x,,,,N/A,EErratica,x,x,5
+Dobuzhinsky,Mstislav,No,x,,,,1957,sureailabs,x,x,3
+Dohanos,Stevan,No,x,,,,1994,KyrickYoung,x,x,2
+Domaradzki,Grzegorz,No,x,,,,N/A,sureailabs,x,x,5
+Domínguez,Óscar,No,x,,,,1957,KyrickYoung,x,x,2
+Donghi,Antonio,No,x,,,,1963,proximasan,x,x,12
+Dongjun Lu,Russell,No,x,,,,N/A,sureailabs,x,x,7
 Dos Santos,Dan,No,x,,,,N/A,sureailabs,x,x,14
-Dossena,Emilio Giuseppe,No,x,,,-,1987,sureailabs,x,x,3
-Dottori,Gerardo,No,x,,,-,1977,proximasan,x,x,1
+Dossena,Emilio Giuseppe,No,x,,,,1987,sureailabs,x,x,3
+Dottori,Gerardo,No,x,,,,1977,proximasan,x,x,1
 Driggs,Elsie,No,x,,,,1992,sureailabs,x,x,14
 Dros,Alberto,No,x,Yes,x,"photography, landscape, nature",N/A,sureailabs,x,x,12
-Dulac,Germaine,No,x,,,-,1942,KyrickYoung,x,x,1
-Dulbecco,Gian Paolo,No,x,,,-,N/A,KyrickYoung,x,x,1
-Dupas,Jean,No,x,,,-,1964,proximasan,x,x,12
-Durán,Victorina,No,x,,,-,1993,KyrickYoung,x,x,1
-Dvořák,František,No,x,,,-,1927,sureailabs,x,x,4
-Eckhardt,Danielle,No,x,,,-,N/A,KyrickYoung,x,x,1
-Eckhout,Albert,No,x,,,-,1665,proximasan,x,x,12
-Eibatova,Karine,No,x,,,-,N/A,KyrickYoung,x,x,1
-Elder,Collin,No,x,,,-,N/A,sureailabs,x,x,4
-Ellenshaw,Harrison,No,x,No,x,-,N/A,sureailabs,x,x,12
-Elliott,Harold,No,x,,,-,1968,KyrickYoung,x,x,2
-Ellison,Charles,No,x,,,-,N/A,sureailabs,x,x,7
-Eloy,Mário,No,x,,,-,1951,sureailabs,x,x,3
-Éluard,Nusch,No,x,,,-,1946,KyrickYoung,x,x,1
+Dulac,Germaine,No,x,,,,1942,KyrickYoung,x,x,1
+Dulbecco,Gian Paolo,No,x,,,,N/A,KyrickYoung,x,x,1
+Dupas,Jean,No,x,,,,1964,proximasan,x,x,12
+Durán,Victorina,No,x,,,,1993,KyrickYoung,x,x,1
+Dvořák,František,No,x,,,,1927,sureailabs,x,x,4
+Eckhardt,Danielle,No,x,,,,N/A,KyrickYoung,x,x,1
+Eckhout,Albert,No,x,,,,1665,proximasan,x,x,12
+Eibatova,Karine,No,x,,,,N/A,KyrickYoung,x,x,1
+Elder,Collin,No,x,,,,N/A,sureailabs,x,x,4
+Ellenshaw,Harrison,No,x,No,x,,N/A,sureailabs,x,x,12
+Elliott,Harold,No,x,,,,1968,KyrickYoung,x,x,2
+Ellison,Charles,No,x,,,,N/A,sureailabs,x,x,7
+Eloy,Mário,No,x,,,,1951,sureailabs,x,x,3
+Éluard,Nusch,No,x,,,,1946,KyrickYoung,x,x,1
 Embleton,Ron,No,x,Yes,x,"comics, scene, detailed",1988,sureailabs,x,x,12
-Embry,Norris,No,x,,,-,1981,sureailabs,x,x,3
-Engström,Leander,No,x,,,-,1927,sureailabs,x,x,3
+Embry,Norris,No,x,,,,1981,sureailabs,x,x,3
+Engström,Leander,No,x,,,,1927,sureailabs,x,x,3
 Ernst,Jimmy,No,x,No,x,"abstract, expressionism",1984,sureailabs,x,x,8
-Evergood,Philip,No,x,,,-,1973,sureailabs,x,x,4
+Evergood,Philip,No,x,,,,1973,sureailabs,x,x,4
 Fahrenkrog,Ludwig,No,x,,,,1952,sureailabs,x,x,13
 Faithfull,Andrew Boog,No,x,,,,N/A,proximasan,x,x,12
 Faithorne,William,No,x,,,,1691,sureailabs,x,x,14
 Falconet,Étienne Maurice,No,x,,,,1791,sureailabs,x,x,14
-Fautrier,Jean,No,x,,,-,1964,sureailabs,x,x,7
-Fedosav,Alexander,No,x,,,-,N/A,sureailabs,x,x,9
-Fegredo,Duncan,No,x,,,-,N/A,proximasan,x,x,5
-Fein,Sylvia,No,x,,,-,N/A,KyrickYoung,x,x,1
-Felixmüller,Conrad,No,x,,,-,1977,sureailabs,x,x,3
-Fernández,Agustín,No,x,,,-,2006,KyrickYoung,x,x,2
-Fiebig,Frédéric,No,x,,,-,1953,sureailabs,x,x,4
+Fautrier,Jean,No,x,,,,1964,sureailabs,x,x,7
+Fedosav,Alexander,No,x,,,,N/A,sureailabs,x,x,9
+Fegredo,Duncan,No,x,,,,N/A,proximasan,x,x,5
+Fein,Sylvia,No,x,,,,N/A,KyrickYoung,x,x,1
+Felixmüller,Conrad,No,x,,,,1977,sureailabs,x,x,3
+Fernández,Agustín,No,x,,,,2006,KyrickYoung,x,x,2
+Fiebig,Frédéric,No,x,,,,1953,sureailabs,x,x,4
 Filiger,Charles,No,x,,,,1928,sureailabs,x,x,13
 Fitzpatrick,Art,No,x,No,x,"cars, scene, ",2015,KyrickYoung,x,x,2
-Fjell,Kai,No,x,,,-,1989,sureailabs,x,x,4
-Flowers,Hannah,No,x,No,x,-,N/A,sureailabs,x,x,12
-Flynn,Danny,No,x,,,-,N/A,EErratica,x,x,2
+Fjell,Kai,No,x,,,,1989,sureailabs,x,x,4
+Flowers,Hannah,No,x,No,x,,N/A,sureailabs,x,x,12
+Flynn,Danny,No,x,,,,N/A,EErratica,x,x,2
 Foujita,Tsuguharu,No,x,Yes,x,"expressionism, magic realism",1968,proximasan,x,x,10
-Francés,Victoria,No,x,,,-,N/A,KyrickYoung,x,x,2
-Frenchy,N/A,No,x,,,-,N/A,sureailabs,x,x,12
-Friese,Richard,No,x,,,-,1918,sureailabs,x,x,5
+Francés,Victoria,No,x,,,,N/A,KyrickYoung,x,x,2
+Frenchy,N/A,No,x,,,,N/A,sureailabs,x,x,12
+Friese,Richard,No,x,,,,1918,sureailabs,x,x,5
 Friesz,Othon,No,x,,,,1949,sureailabs,x,x,13
-Fukuzawa,Ichiro,No,x,,,-,1992,sureailabs,x,x,2
-Fumito,Ueda,No,x,,,-,N/A,sureailabs,x,x,5
+Fukuzawa,Ichiro,No,x,,,,1992,sureailabs,x,x,2
+Fumito,Ueda,No,x,,,,N/A,sureailabs,x,x,5
 Gabbiani,Anton Domenico,No,x,Yes,x,"baroque, scene",1726,sureailabs,x,x,14
-Gahō,Hashimoto,No,x,,,-,1908,sureailabs,x,x,7
+Gahō,Hashimoto,No,x,,,,1908,sureailabs,x,x,7
 Gallen-Kallela,Akseli,No,x,,,,1931,sureailabs,x,x,14
-Garnelo,José,No,x,,,-,1944,sureailabs,x,x,5
+Garnelo,José,No,x,,,,1944,sureailabs,x,x,5
 Garney,Ron,No,x,,,,N/A,sureailabs,x,x,12
-Gascar,Henri,No,x,,,-,1701,sureailabs,x,x,12
-Gassler,Josef,No,x,,,-,1978,sureailabs,x,x,4
-Gerstl,Richard,No,x,,,-,1908,sureailabs,x,x,4
-Gibran,Kahlil,No,x,,,-,1931,sureailabs,x,x,4
-Gierymski,Aleksander,No,x,,,-,1901,proximasan,x,x,10
-Gimel,Georges,No,x,,,-,1962,sureailabs,x,x,4
-Giménez,Juan,No,x,,,-,2020,sureailabs,x,x,1
-Goeritz,Mathias,No,x,,,-,1990,sureailabs,x,x,4
+Gascar,Henri,No,x,,,,1701,sureailabs,x,x,12
+Gassler,Josef,No,x,,,,1978,sureailabs,x,x,4
+Gerstl,Richard,No,x,,,,1908,sureailabs,x,x,4
+Gibran,Kahlil,No,x,,,,1931,sureailabs,x,x,4
+Gierymski,Aleksander,No,x,,,,1901,proximasan,x,x,10
+Gimel,Georges,No,x,,,,1962,sureailabs,x,x,4
+Giménez,Juan,No,x,,,,2020,sureailabs,x,x,1
+Goeritz,Mathias,No,x,,,,1990,sureailabs,x,x,4
 Goldblatt,Lydia,No,x,No,x,photography,N/A,sureailabs,x,x,12
-Gomez,Pablo Munoz,No,x,,,-,N/A,sureailabs,x,x,10
-Gonzalez,Rodel,No,x,,,-,N/A,sureailabs,x,x,5
-Gotlib,Henryk,No,x,,,-,1966,sureailabs,x,x,4
-Goyo,Hashiguchi,No,x,,,-,1921,proximasan,x,x,12
+Gomez,Pablo Munoz,No,x,,,,N/A,sureailabs,x,x,10
+Gonzalez,Rodel,No,x,,,,N/A,sureailabs,x,x,5
+Gotlib,Henryk,No,x,,,,1966,sureailabs,x,x,4
+Goyo,Hashiguchi,No,x,,,,1921,proximasan,x,x,12
 Granz,Matt,No,x,No,x,,N/A,sureailabs,x,x,14
 Greene,Balcomb,No,x,No,x,,1990,sureailabs,x,x,14
 Greene,Milton H.,No,x,,,photography,1985,sureailabs,x,x,13
-Grey,Allyson,No,x,,,-,N/A,sureailabs,x,x,4
-Griepenkerl,Christian,No,x,,,-,1916,sureailabs,x,x,4
+Grey,Allyson,No,x,,,,N/A,sureailabs,x,x,4
+Griepenkerl,Christian,No,x,,,,1916,sureailabs,x,x,4
 Griffin,Rick,No,x,No,x,,1991,sureailabs,x,x,15
 Griffiths,Mitch,No,x,Yes,x,"realism, scene, portrait",N/A,sureailabs,x,x,15
-Grimmer,Jordan,No,x,,,-,N/A,sureailabs,x,x,5
-Gritchenko,Alexis,No,x,,,-,1977,sureailabs,x,x,4
+Grimmer,Jordan,No,x,,,,N/A,sureailabs,x,x,5
+Gritchenko,Alexis,No,x,,,,1977,sureailabs,x,x,4
 Grubaugh,Carson,No,x,,,,N/A,sureailabs,x,x,10
-Grünewald,Isaac,No,x,,,-,1946,sureailabs,x,x,4
-Guangjian,Huang,No,x,,,-,N/A,sureailabs,x,x,5
+Grünewald,Isaac,No,x,,,,1946,sureailabs,x,x,4
+Guangjian,Huang,No,x,,,,N/A,sureailabs,x,x,5
 Gustafson,Scott,No,x,No,x,"storybook realism, whimsical, children's illustration, fantasy",N/A,sureailabs,x,x,11
-Häfner,Thomas,No,x,,,-,1985,sureailabs,x,x,2
+Häfner,Thomas,No,x,,,,1985,sureailabs,x,x,2
 Haker,Matthias,No,x,,,,N/A,proximasan,x,x,12
-Hákonarson,Einar,No,x,,,-,N/A,sureailabs,x,x,4
+Hákonarson,Einar,No,x,,,,N/A,sureailabs,x,x,4
 Hamiti,Bess,No,x,No,x,"landscape, vibrant, magic realism",N/A,sureailabs,x,x,12
-Hammer,Victor,No,x,,,-,1967,sureailabs,x,x,4
-Han,Yeong-Hao,No,x,,x,-,N/A,sureailabs,x,x,12
-Hara,Tetsuo,No,x,,,-,N/A,sureailabs,x,x,5
-Harlamoff,Alexei,No,x,,,-,1925,sureailabs,x,x,5
-Hausner,Rudolf,No,x,,,-,1995,sureailabs,x,x,2
+Hammer,Victor,No,x,,,,1967,sureailabs,x,x,4
+Han,Yeong-Hao,No,x,,x,,N/A,sureailabs,x,x,12
+Hara,Tetsuo,No,x,,,,N/A,sureailabs,x,x,5
+Harlamoff,Alexei,No,x,,,,1925,sureailabs,x,x,5
+Hausner,Rudolf,No,x,,,,1995,sureailabs,x,x,2
 Hawker,Thomas,No,x,,,,1722,sureailabs,x,x,13
-Hawkins,Emery,No,x,,,-,1989,sureailabs,x,x,6
+Hawkins,Emery,No,x,,,,1989,sureailabs,x,x,6
 Heath,Dave,No,x,,,,2016,sureailabs,x,x,13
-Heijermans,Hubertine,No,x,,,-,N/A,sureailabs,x,x,8
+Heijermans,Hubertine,No,x,,,,N/A,sureailabs,x,x,8
 Helfer,Fay,No,x,,,,N/A,sureailabs,x,x,14
-Hem,Andrew,No,x,,,-,N/A,sureailabs,x,x,6
-Henrichon,Niko,No,x,,,-,N/A,sureailabs,x,x,7
+Hem,Andrew,No,x,,,,N/A,sureailabs,x,x,6
+Henrichon,Niko,No,x,,,,N/A,sureailabs,x,x,7
 Herzog,Werner,No,x,Yes,x,"film, personality",N/A,sureailabs,x,x,3
-Hester,Joy,No,x,,,-,1960,sureailabs,x,x,4
-Higgins,John,No,x,,,-,N/A,KyrickYoung,x,x,1
+Hester,Joy,No,x,,,,1960,sureailabs,x,x,4
+Higgins,John,No,x,,,,N/A,KyrickYoung,x,x,1
 Hill,Kevin,No,x,,,,N/A,sureailabs,x,x,16
-Hinterreiter,Hans,No,x,,,-,1989,proximasan,x,x,10
-Hirano,Kouta,No,x,,,-,N/A,sureailabs,x,x,8
+Hinterreiter,Hans,No,x,,,,1989,proximasan,x,x,10
+Hirano,Kouta,No,x,,,,N/A,sureailabs,x,x,8
 Hobbema,Meindert,No,x,,,,1709,sureailabs,x,x,15
-Hofer,Karl,No,x,,,-,1955,sureailabs,x,x,4
-Hofhuizen,Willem,No,x,,,-,1986,sureailabs,x,x,4
-Hollósy,Simon,No,x,,,-,1918,sureailabs,x,x,4
+Hofer,Karl,No,x,,,,1955,sureailabs,x,x,4
+Hofhuizen,Willem,No,x,,,,1986,sureailabs,x,x,4
+Hollósy,Simon,No,x,,,,1918,sureailabs,x,x,4
 Hondius,Hendrik,No,x,,,,1650,sureailabs,x,x,16
 Hong,Kuang,No,x,No,x,"fantasy, digital, dark",N/A,sureailabs,x,x,6
-Hongzhong,Gu,No,x,,,-,975,proximasan,x,x,12
+Hongzhong,Gu,No,x,,,,975,proximasan,x,x,12
 Hoong,Tang Yau,No,x,,,,N/A,sureailabs,x,x,16
-Hordiienko,Tatiana,No,x,,,-,N/A,sureailabs,x,x,8
-Hugo,Valentine,No,x,,,-,1968,sureailabs,x,x,2
-Huss,Judson,No,x,No,x,-,2008,sureailabs,x,x,2
+Hordiienko,Tatiana,No,x,,,,N/A,sureailabs,x,x,8
+Hugo,Valentine,No,x,,,,1968,sureailabs,x,x,2
+Huss,Judson,No,x,No,x,,2008,sureailabs,x,x,2
 Hutty,Alfred Heber,No,x,,,,1954,sureailabs,x,x,13
-Ida,Yukimasa,No,x,,,-,N/A,sureailabs,x,x,11
-Ingels,Graham,No,x,,,-,1991,sureailabs,x,x,6
-Ingle,John Stuart,No,x,,,-,2010,sureailabs,x,x,11
-Isak,Gabriel,No,x,,,-,N/A,sureailabs,x,x,10
-Ishida,Tetsuya,No,x,No,x,-,2005,sureailabs,x,x,2
-Ishiguro,Ayako,No,x,,,-,N/A,proximasan,x,x,7
-Jaakola,Alpo,No,x,,,-,1997,sureailabs,x,x,3
-Jacovleff,Alexandre,No,x,,,-,1938,sureailabs,x,x,8
+Ida,Yukimasa,No,x,,,,N/A,sureailabs,x,x,11
+Ingels,Graham,No,x,,,,1991,sureailabs,x,x,6
+Ingle,John Stuart,No,x,,,,2010,sureailabs,x,x,11
+Isak,Gabriel,No,x,,,,N/A,sureailabs,x,x,10
+Ishida,Tetsuya,No,x,No,x,,2005,sureailabs,x,x,2
+Ishiguro,Ayako,No,x,,,,N/A,proximasan,x,x,7
+Jaakola,Alpo,No,x,,,,1997,sureailabs,x,x,3
+Jacovleff,Alexandre,No,x,,,,1938,sureailabs,x,x,8
 Jakuchū,Itō,No,x,,,,1800,sureailabs,x,x,13
-Jaśnikowski,Jarosław,No,x,Yes,x,-,N/A,sureailabs,x,x,2
+Jaśnikowski,Jarosław,No,x,Yes,x,,N/A,sureailabs,x,x,2
 Jasso,Jaime,No,x,,,,N/A,sureailabs,x,x,13
-Jedruszek,Tomasz,No,x,,,-,N/A,KyrickYoung,x,x,2
-Jespers,Floris,No,x,,,-,1965,sureailabs,x,x,4
+Jedruszek,Tomasz,No,x,,,,N/A,KyrickYoung,x,x,2
+Jespers,Floris,No,x,,,,1965,sureailabs,x,x,4
 Jethani,Saurabh,No,x,,,,N/A,sureailabs,x,x,13
-Jodorowsky,Alejandro,No,x,,,-,N/A,sureailabs,x,x,2
-Johansen,Einer,No,x,,,-,1965,sureailabs,x,x,4
-Johnston,Miles,No,x,Yes,x,-,N/A,sureailabs,x,x,6
-Jones,Eddie,No,x,No,x,-,1999,sureailabs,x,x,4
-Jones,J. G.,No,x,,,-,N/A,sureailabs,x,x,4
+Jodorowsky,Alejandro,No,x,,,,N/A,sureailabs,x,x,2
+Johansen,Einer,No,x,,,,1965,sureailabs,x,x,4
+Johnston,Miles,No,x,Yes,x,,N/A,sureailabs,x,x,6
+Jones,Eddie,No,x,No,x,,1999,sureailabs,x,x,4
+Jones,J. G.,No,x,,,,N/A,sureailabs,x,x,4
 Jones,Lois Mailou,No,x,No,x,"colorful, vibrant, melanin",1998,sureailabs,x,x,12
-Jonson,Sven,No,x,No,x,-,1981,sureailabs,x,x,10
-Jung,Tom,No,x,,,-,N/A,sureailabs,x,x,3
+Jonson,Sven,No,x,No,x,,1981,sureailabs,x,x,10
+Jung,Tom,No,x,,,,N/A,sureailabs,x,x,3
 Jungen,Brian,No,x,,,,N/A,sureailabs,x,x,14
-Kamoi,Rei,No,x,,,-,1985,proximasan,x,x,12
-Kanitz,Felix Philipp,No,x,,,-,1904,sureailabs,x,x,6
-Kanoldt,Alexander,No,x,,,-,1939,sureailabs,x,x,11
+Kamoi,Rei,No,x,,,,1985,proximasan,x,x,12
+Kanitz,Felix Philipp,No,x,,,,1904,sureailabs,x,x,6
+Kanoldt,Alexander,No,x,,,,1939,sureailabs,x,x,11
 Karimova,Elina,No,x,,,,N/A,sureailabs,x,x,14
-Katsura,Yuki,No,x,,,-,1991,sureailabs,x,x,3
-Katsuragawa,Hiroshi,No,x,,,-,2011,sureailabs,x,x,3
-Kawacy,N/A,No,x,Yes,x,-,N/A,sureailabs,x,x,12
-Keane,Bil,No,x,,x,-,2011,sureailabs,x,x,12
-Keane,Jeff,No,x,,x,-,N/A,sureailabs,x,x,12
-Keel,Carl Eugen,No,x,,,-,1961,sureailabs,x,x,4
-Keene,Lisa,No,x,No,-,storybook realism,N/A,sureailabs,x,x,6
-Kelly,Felix,No,x,No,x,-,1994,KyrickYoung,x,x,1
-Kelly,Patrick,No,x,,,-,1990,sureailabs,x,x,12
-Kelsner,Alfred,No,x,No,x,-,N/A,sureailabs,x,x,4
-Kernn-Larsen,Rita,No,x,,,-,1998,sureailabs,x,x,3
+Katsura,Yuki,No,x,,,,1991,sureailabs,x,x,3
+Katsuragawa,Hiroshi,No,x,,,,2011,sureailabs,x,x,3
+Kawacy,N/A,No,x,Yes,x,,N/A,sureailabs,x,x,12
+Keane,Bil,No,x,,x,,2011,sureailabs,x,x,12
+Keane,Jeff,No,x,,x,,N/A,sureailabs,x,x,12
+Keel,Carl Eugen,No,x,,,,1961,sureailabs,x,x,4
+Keene,Lisa,No,x,No,,storybook realism,N/A,sureailabs,x,x,6
+Kelly,Felix,No,x,No,x,,1994,KyrickYoung,x,x,1
+Kelly,Patrick,No,x,,,,1990,sureailabs,x,x,12
+Kelsner,Alfred,No,x,No,x,,N/A,sureailabs,x,x,4
+Kernn-Larsen,Rita,No,x,,,,1998,sureailabs,x,x,3
 Kidner,Michael,No,x,,,,2009,sureailabs,x,x,13
 Kieryluk,Igor,No,x,,,,N/A,sureailabs,x,x,13
 Kim,Sung,No,x,,,,N/A,sureailabs,x,x,16
-Kimball,Ward,No,x,,,-,2002,sureailabs,x,x,6
-King,Tom,No,x,,,-,N/A,sureailabs,x,x,9
+Kimball,Ward,No,x,,,,2002,sureailabs,x,x,6
+King,Tom,No,x,,,,N/A,sureailabs,x,x,9
 Kingsley,Harry,No,x,,,,1998,sureailabs,x,x,16
-Kinkaid,Thomas C.,No,x,,,-,1972,sureailabs,x,x,1
+Kinkaid,Thomas C.,No,x,,,,1972,sureailabs,x,x,1
 Kirkman,Robert,No,x,Yes,x,"comics, dark",N/A,sureailabs,x,x,9
-Klinger,Max,No,x,,,-,1920,sureailabs,x,x,3
-Knutson,Greta,No,x,,,-,1983,sureailabs,x,x,3
-Kochabua,Prateep,No,x,No,x,-,N/A,sureailabs,x,x,6
+Klinger,Max,No,x,,,,1920,sureailabs,x,x,3
+Knutson,Greta,No,x,,,,1983,sureailabs,x,x,3
+Kochabua,Prateep,No,x,No,x,,N/A,sureailabs,x,x,6
 Kochar,Yervand,No,x,,,,1979,sureailabs,x,x,15
-Koga,Harue,No,x,No,x,-,1933,sureailabs,x,x,3
-Koike,Takeshi,No,x,,,-,N/A,sureailabs,x,x,8
+Koga,Harue,No,x,No,x,,1933,sureailabs,x,x,3
+Koike,Takeshi,No,x,,,,N/A,sureailabs,x,x,8
 Koitsu,Tsuchiya,No,x,,,,1949,sureailabs,x,x,15
 Komarck,Michael,No,x,,,,N/A,sureailabs,x,x,14
 Komatsu,Miwa,No,x,,,,N/A,sureailabs,x,x,14
 Konchalovsky,Pyotr,No,x,,,,1956,sureailabs,x,x,14
-Kondo,Kazuhisa,No,x,,,-,N/A,sureailabs,x,x,6
-Kopinski,Karl,No,x,No,x,-,N/A,sureailabs,x,x,9
+Kondo,Kazuhisa,No,x,,,,N/A,sureailabs,x,x,6
+Kopinski,Karl,No,x,No,x,,N/A,sureailabs,x,x,9
 Koresh,Omri,No,x,Yes,x,"scene, dark, digital",N/A,sureailabs,x,x,15
-Korolev,Oleg,No,x,,,-,N/A,sureailabs,x,x,3
-Kotarbiński,Wilhelm,No,x,,,-,1921,proximasan,x,x,11
-Kotin,Albert,No,x,,,-,1980,sureailabs,x,x,4
-Kōzan,Makuzu,No,x,,,-,1916,sureailabs,x,x,7
-Krenkel,Roy,No,x,,,-,1983,sureailabs,x,x,6
-Kruyder,Herman,No,x,,,-,1935,sureailabs,x,x,4
-Kuindzhi,Arkhyp,No,x,,,-,1910,sureailabs,x,x,7
-Kuksi,Kris,No,x,,,-,N/A,sureailabs,x,x,6
+Korolev,Oleg,No,x,,,,N/A,sureailabs,x,x,3
+Kotarbiński,Wilhelm,No,x,,,,1921,proximasan,x,x,11
+Kotin,Albert,No,x,,,,1980,sureailabs,x,x,4
+Kōzan,Makuzu,No,x,,,,1916,sureailabs,x,x,7
+Krenkel,Roy,No,x,,,,1983,sureailabs,x,x,6
+Kruyder,Herman,No,x,,,,1935,sureailabs,x,x,4
+Kuindzhi,Arkhyp,No,x,,,,1910,sureailabs,x,x,7
+Kuksi,Kris,No,x,,,,N/A,sureailabs,x,x,6
 Kutsche ,Michael ,No,x,Yes,x,"character, fantasy, dark",N/A,sureailabs,x,x,13
-Labisse,Félix,No,x,,,-,1982,sureailabs,x,x,4
-LaBrooy,Chris,No,x,,,-,N/A,sureailabs,x,x,5
+Labisse,Félix,No,x,,,,1982,sureailabs,x,x,4
+LaBrooy,Chris,No,x,,,,N/A,sureailabs,x,x,5
 Ladrönn,José,No,x,,,,N/A,sureailabs,x,x,13
-Lady Gaga,N/A,No,x,,,-,N/A,sureailabs,x,x,1
-Laloux,René,No,x,,,-,2004,sureailabs,x,x,4
-Laubser,Maggie,No,x,,,-,1973,sureailabs,x,x,4
-Le,John,No,x,,,-,N/A,sureailabs,x,x,7
-Leblanc,André,No,x,,,-,1998,sureailabs,x,x,6
-Lebrun,Rico,No,x,,,-,1964,sureailabs,x,x,4
-Ledesma,Clara,No,x,,,-,1999,sureailabs,x,x,3
+Lady Gaga,N/A,No,x,,,,N/A,sureailabs,x,x,1
+Laloux,René,No,x,,,,2004,sureailabs,x,x,4
+Laubser,Maggie,No,x,,,,1973,sureailabs,x,x,4
+Le,John,No,x,,,,N/A,sureailabs,x,x,7
+Leblanc,André,No,x,,,,1998,sureailabs,x,x,6
+Lebrun,Rico,No,x,,,,1964,sureailabs,x,x,4
+Ledesma,Clara,No,x,,,,1999,sureailabs,x,x,3
 Ledroit,Olivier,No,x,,,,N/A,sureailabs,x,x,14
-Lee,Joong Keun,No,x,,,-,N/A,sureailabs,x,x,7
-Lee,Stan,No,x,,,-,2018,sureailabs,x,x,7
+Lee,Joong Keun,No,x,,,,N/A,sureailabs,x,x,7
+Lee,Stan,No,x,,,,2018,sureailabs,x,x,7
 Lefèbvre,Claude,No,x,No,x,"baroque, portrait",1675,sureailabs,x,x,12
-Lefevre,Vincent,No,x,,,-,N/A,sureailabs,x,x,8
-Lefler,Franz,No,x,,,-,1898,sureailabs,x,x,4
+Lefevre,Vincent,No,x,,,,N/A,sureailabs,x,x,8
+Lefler,Franz,No,x,,,,1898,sureailabs,x,x,4
 Lefou,Auguste,No,x,,,,N/A,sureailabs,x,x,14
-Lehmbruck,Wilhelm,No,x,,,-,1919,sureailabs,x,x,4
+Lehmbruck,Wilhelm,No,x,,,,1919,sureailabs,x,x,4
 Lemmen,Georges,No,x,,,,1916,sureailabs,x,x,14
 Leroy,Eugene,No,x,,,,2000,sureailabs,x,x,15
 Lettl,Wolfgang,No,x,,,,2008,sureailabs,x,x,15
-Levine,Jack,No,x,,,-,2010,sureailabs,x,x,4
-Liberto,John,No,x,,,-,N/A,proximasan,x,x,5
+Levine,Jack,No,x,,,,2010,sureailabs,x,x,4
+Liberto,John,No,x,,,,N/A,proximasan,x,x,5
 Lieske,Daniel,No,x,,,,N/A,sureailabs,x,x,16
-Limon,Jason,No,x,,,-,N/A,sureailabs,x,x,6
-Lockwood,Todd,No,x,,,-,N/A,sureailabs,x,x,4
-Logsdail,William,No,x,,,-,1944,sureailabs,x,x,6
-Lohse-Wächtler,Elfriede,No,x,,,-,1940,sureailabs,x,x,4
+Limon,Jason,No,x,,,,N/A,sureailabs,x,x,6
+Lockwood,Todd,No,x,,,,N/A,sureailabs,x,x,4
+Logsdail,William,No,x,,,,1944,sureailabs,x,x,6
+Lohse-Wächtler,Elfriede,No,x,,,,1940,sureailabs,x,x,4
 Loish,N/A,No,x,,,,N/A,sureailabs,x,x,14,AKA Lois van Baarle
-Lovag,Antti,No,x,,,-,2014,proximasan,x,x,6
-MacFarlane,Seth,No,x,,,-,N/A,sureailabs,x,x,11
-Maeda,Mahiro,No,x,,,-,N/A,sureailabs,x,x,10
-Mägi,Konrad,No,x,,,-,1925,sureailabs,x,x,4
+Lovag,Antti,No,x,,,,2014,proximasan,x,x,6
+MacFarlane,Seth,No,x,,,,N/A,sureailabs,x,x,11
+Maeda,Mahiro,No,x,,,,N/A,sureailabs,x,x,10
+Mägi,Konrad,No,x,,,,1925,sureailabs,x,x,4
 Magnaldo,Alastair,No,x,,,,N/A,sureailabs,x,x,13
 Magnelli,Alberto,No,x,,,,1971,sureailabs,x,x,13
 Maguire,Robert,No,x,No,x,"scene, portrait",2015,sureailabs,x,x,13
-Malfatti,Anita,No,x,,,-,1964,sureailabs,x,x,4
-Malkin,David,No,x,,,-,2002,sureailabs,x,x,10
-Mallo,Maruja,No,x,,,-,1995,sureailabs,x,x,4
-Mambour,Auguste,No,x,,,-,1968,sureailabs,x,x,4
-Manabe,Johji,No,x,,,-,N/A,sureailabs,x,x,6
-Manini,Jack,No,x,,,-,N/A,sureailabs,x,x,8
-Manookian,Arman,No,x,,,-,1931,proximasan,x,x,1
-Mansour,Sliman,No,x,,,-,N/A,sureailabs,x,x,3
-Marcela-Froideval,François,No,x,,,-,N/A,sureailabs,x,x,10
+Malfatti,Anita,No,x,,,,1964,sureailabs,x,x,4
+Malkin,David,No,x,,,,2002,sureailabs,x,x,10
+Mallo,Maruja,No,x,,,,1995,sureailabs,x,x,4
+Mambour,Auguste,No,x,,,,1968,sureailabs,x,x,4
+Manabe,Johji,No,x,,,,N/A,sureailabs,x,x,6
+Manini,Jack,No,x,,,,N/A,sureailabs,x,x,8
+Manookian,Arman,No,x,,,,1931,proximasan,x,x,1
+Mansour,Sliman,No,x,,,,N/A,sureailabs,x,x,3
+Marcela-Froideval,François,No,x,,,,N/A,sureailabs,x,x,10
 Marchetti,Lou,No,x,,,,1992,sureailabs,x,x,13
-Martchenko,Michael,No,x,,,-,N/A,sureailabs,x,x,3
+Martchenko,Michael,No,x,,,,N/A,sureailabs,x,x,3
 Maruo,Suehiro,No,x,,,,N/A,sureailabs,x,x,12
-Masaharu,Takasaki,No,x,,,-,N/A,proximasan,x,x,6
-Masons,Keos,No,x,,,-,N/A,sureailabs,x,x,7
+Masaharu,Takasaki,No,x,,,,N/A,proximasan,x,x,6
+Masons,Keos,No,x,,,,N/A,sureailabs,x,x,7
 Matsui,Fuyuko,No,x,,,,N/A,sureailabs,x,x,14
-Maurer,Alfred Henry,No,x,,,-,1932,sureailabs,x,x,4
-Maya,Rubén,No,x,,,-,N/A,proximasan,x,x,5
-Mayle,Sam,No,x,,,-,N/A,sureailabs,x,x,6
+Maurer,Alfred Henry,No,x,,,,1932,sureailabs,x,x,4
+Maya,Rubén,No,x,,,,N/A,proximasan,x,x,5
+Mayle,Sam,No,x,,,,N/A,sureailabs,x,x,6
 McAllister,Cristina,No,x,,,,N/A,sureailabs,x,x,14
-McCoy,Jon,No,x,,,-,N/A,sureailabs,x,x,6
+McCoy,Jon,No,x,,,,N/A,sureailabs,x,x,6
 McGuinness,Norah,No,x,,,,1980,sureailabs,x,x,15
 McGuinness,Tom,No,x,,,,2006,sureailabs,x,x,15
 Mckadesinsanity,N/A,No,x,,,,N/A,sureailabs,x,x,16
-McKinnon,Seb,No,x,,,-,N/A,sureailabs,x,x,4
-Medková,Emila,No,x,,,-,1985,sureailabs,x,x,4
-Mehoffer,Józef,No,x,,,-,1946,sureailabs,x,x,7
-Meidner,Ludwig,No,x,,,-,1966,sureailabs,x,x,4
-Melan,Claude,No,x,,,-,1688,sureailabs,x,x,6
-Meller,Vadim,No,x,,,-,1962,sureailabs,x,x,4
-Miller,Lee,No,x,,,-,1977,sureailabs,x,x,4
-Miller,Ron,No,x,,,-,N/A,sureailabs,x,x,4
+McKinnon,Seb,No,x,,,,N/A,sureailabs,x,x,4
+Medková,Emila,No,x,,,,1985,sureailabs,x,x,4
+Mehoffer,Józef,No,x,,,,1946,sureailabs,x,x,7
+Meidner,Ludwig,No,x,,,,1966,sureailabs,x,x,4
+Melan,Claude,No,x,,,,1688,sureailabs,x,x,6
+Meller,Vadim,No,x,,,,1962,sureailabs,x,x,4
+Miller,Lee,No,x,,,,1977,sureailabs,x,x,4
+Miller,Ron,No,x,,,,N/A,sureailabs,x,x,4
 Minguez,Victor Adame,No,x,Yes,x,"fantasy, character, digital",N/A,KyrickYoung,x,x,2
-Mintchine,Abraham,No,x,,,-,1931,sureailabs,x,x,3
-Moline,Robin,No,x,,,-,N/A,sureailabs,x,x,3
-Moonan,John,No,x,,,-,N/A,proximasan,x,x,10
-Moore,Marcel,No,x,,,-,1972,sureailabs,x,x,4
-Morimoto,Kōji,No,x,,,-,N/A,sureailabs,x,x,6
-Morsi,Ahmed,No,x,,,-,N/A,sureailabs,x,x,4
-Mosquera,Victor,No,x,,,-,N/A,sureailabs,x,x,5
-Mr. Doodle,N/A,No,x,,,-,N/A,sureailabs,x,x,2
-Mueller,Otto,No,x,,,-,1930,sureailabs,x,x,4
-Müller,Otto,No,x,,,-,1979,sureailabs,x,x,4
-Munsch,Robert,No,x,,,-,N/A,sureailabs,x,x,3
-Musashi,Miyamoto,No,x,,,-,1645,proximasan,x,x,9
-Musgrove,Scott,No,x,,,-,N/A,sureailabs,x,x,6
+Mintchine,Abraham,No,x,,,,1931,sureailabs,x,x,3
+Moline,Robin,No,x,,,,N/A,sureailabs,x,x,3
+Moonan,John,No,x,,,,N/A,proximasan,x,x,10
+Moore,Marcel,No,x,,,,1972,sureailabs,x,x,4
+Morimoto,Kōji,No,x,,,,N/A,sureailabs,x,x,6
+Morsi,Ahmed,No,x,,,,N/A,sureailabs,x,x,4
+Mosquera,Victor,No,x,,,,N/A,sureailabs,x,x,5
+Mr. Doodle,N/A,No,x,,,,N/A,sureailabs,x,x,2
+Mueller,Otto,No,x,,,,1930,sureailabs,x,x,4
+Müller,Otto,No,x,,,,1979,sureailabs,x,x,4
+Munsch,Robert,No,x,,,,N/A,sureailabs,x,x,3
+Musashi,Miyamoto,No,x,,,,1645,proximasan,x,x,9
+Musgrove,Scott,No,x,,,,N/A,sureailabs,x,x,6
 Myers,Ed,No,x,,,surrealism,N/A,proximasan,x,x,12
 Nagualero,Ric,No,x,No,x,,N/A,sureailabs,x,x,12
-Nakai,Tsubasa,No,x,,,-,N/A,proximasan,x,x,10
-Nakian,Reuben,No,x,,,-,1986,KyrickYoung,x,x,2
-Nash,John,No,x,,,-,2015,sureailabs,x,x,11
-Nesch,Rolf,No,x,,,-,1975,sureailabs,x,x,4
-Nielsen,Terese,No,x,,,-,N/A,sureailabs,x,x,4
-Nightow,Yasuhiro,No,x,,,-,N/A,sureailabs,x,x,7
-Normal,David,No,x,,,-,N/A,sureailabs,x,x,7
-Norman,Max Magnus,No,x,,,-,N/A,sureailabs,x,x,3
-Norman,Polly,No,x,,,-,N/A,sureailabs,x,x,4
+Nakai,Tsubasa,No,x,,,,N/A,proximasan,x,x,10
+Nakian,Reuben,No,x,,,,1986,KyrickYoung,x,x,2
+Nash,John,No,x,,,,2015,sureailabs,x,x,11
+Nesch,Rolf,No,x,,,,1975,sureailabs,x,x,4
+Nielsen,Terese,No,x,,,,N/A,sureailabs,x,x,4
+Nightow,Yasuhiro,No,x,,,,N/A,sureailabs,x,x,7
+Normal,David,No,x,,,,N/A,sureailabs,x,x,7
+Norman,Max Magnus,No,x,,,,N/A,sureailabs,x,x,3
+Norman,Polly,No,x,,,,N/A,sureailabs,x,x,4
 Northrup,Don,No,x,,,,N/A,proximasan,x,x,12
 Northrup,Tony,No,x,,,,N/A,proximasan,x,x,12
 Northup,Don,No,x,,,,N/A,proximasan,x,x,12
-Oga,Kazuo,No,x,,,-,N/A,sureailabs,x,x,7
+Oga,Kazuo,No,x,,,,N/A,sureailabs,x,x,7
 Ōi,Katsushika,No,x,Yes,x,ukiyo-e,1866,sureailabs,x,x,12
-Oka,Yasutomo,No,x,No,x,-,N/A,sureailabs,x,x,12
-Okamoto,Tarō,No,x,No,x,-,1996,sureailabs,x,x,12
-Okawara,Kunio,No,x,,,-,N/A,sureailabs,x,x,7
-Ōkyo,Maruyama,No,x,,,-,1795,sureailabs,x,x,7
+Oka,Yasutomo,No,x,No,x,,N/A,sureailabs,x,x,12
+Okamoto,Tarō,No,x,No,x,,1996,sureailabs,x,x,12
+Okawara,Kunio,No,x,,,,N/A,sureailabs,x,x,7
+Ōkyo,Maruyama,No,x,,,,1795,sureailabs,x,x,7
 Olbiński,Rafał,No,x,Yes,x,"surrealism, cloudscape, figurativism",N/A,proximasan,x,x,1
 Oldham,Brian,No,x,,,,N/A,sureailabs,x,x,12
-Onchi,Kōshirō,No,x,,,-,1955,sureailabs,x,x,4
-Or,Hinchel,No,x,,,-,N/A,sureailabs,x,x,11
-Orbik,Glen,No,x,No,x,-,2015,KyrickYoung,x,x,1
-Ortega,Gilberto Hernández,No,x,,,-,1979,sureailabs,x,x,4
+Onchi,Kōshirō,No,x,,,,1955,sureailabs,x,x,4
+Or,Hinchel,No,x,,,,N/A,sureailabs,x,x,11
+Orbik,Glen,No,x,No,x,,2015,KyrickYoung,x,x,1
+Ortega,Gilberto Hernández,No,x,,,,1979,sureailabs,x,x,4
 Ortiz,Karla,No,x,No,x,,N/A,sureailabs,x,x,13
-Ossola,Raffeaello,No,x,No,x,-,N/A,proximasan,x,x,1
-Ōtsuji,Kiyoji,No,x,,,-,2001,sureailabs,x,x,4
-Otus,Erol,No,x,,,-,N/A,proximasan,x,x,5
-Ozenfant,Amedee,No,x,,,-,1966,proximasan,x,x,10
-Paalen,Wolfgang,No,x,,,-,1959,sureailabs,x,x,4
-Palencar,John Jude,No,x,,,-,N/A,sureailabs,x,x,4
-Panikanova,Ekaterina,No,x,,,-,N/A,sureailabs,x,x,4
-Papazoff,Georges,No,x,,,-,1972,sureailabs,x,x,11
-Paquette,Adam,No,x,,,-,N/A,proximasan,x,x,1
-Parker,Jake,No,x,,,-,N/A,sureailabs,x,x,7
-Parker,Lisa,No,x,,,-,N/A,KyrickYoung,x,x,1
-Parthenis,Konstantinos,No,x,,,-,1967,proximasan,x,x,9
-Pass,Donald,No,x,,,-,2010,sureailabs,x,x,4
-Paul,Gen,No,x,,,-,1975,sureailabs,x,x,4
+Ossola,Raffeaello,No,x,No,x,,N/A,proximasan,x,x,1
+Ōtsuji,Kiyoji,No,x,,,,2001,sureailabs,x,x,4
+Otus,Erol,No,x,,,,N/A,proximasan,x,x,5
+Ozenfant,Amedee,No,x,,,,1966,proximasan,x,x,10
+Paalen,Wolfgang,No,x,,,,1959,sureailabs,x,x,4
+Palencar,John Jude,No,x,,,,N/A,sureailabs,x,x,4
+Panikanova,Ekaterina,No,x,,,,N/A,sureailabs,x,x,4
+Papazoff,Georges,No,x,,,,1972,sureailabs,x,x,11
+Paquette,Adam,No,x,,,,N/A,proximasan,x,x,1
+Parker,Jake,No,x,,,,N/A,sureailabs,x,x,7
+Parker,Lisa,No,x,,,,N/A,KyrickYoung,x,x,1
+Parthenis,Konstantinos,No,x,,,,1967,proximasan,x,x,9
+Pass,Donald,No,x,,,,2010,sureailabs,x,x,4
+Paul,Gen,No,x,,,,1975,sureailabs,x,x,4
 Pelissero,Silvia,No,x,,,,N/A,sureailabs,x,x,14
-Penrose,Valentine,No,x,,,-,1978,sureailabs,x,x,3
-Petagno,Joe,No,x,,,-,N/A,sureailabs,x,x,4
-Petruk (APe),Alex,No,x,,,-,N/A,sureailabs,x,x,8
-Philipon,Charles,No,x,,,-,1861,proximasan,x,x,5
-Picenardi,Mauro,No,x,,,-,1809,sureailabs,x,x,7
-Pimenov,Yuri Ivanovich,No,x,,,-,1977,sureailabs,x,x,3
-Pinker,Stanley,No,x,,,-,2012,sureailabs,x,x,11
+Penrose,Valentine,No,x,,,,1978,sureailabs,x,x,3
+Petagno,Joe,No,x,,,,N/A,sureailabs,x,x,4
+Petruk (APe),Alex,No,x,,,,N/A,sureailabs,x,x,8
+Philipon,Charles,No,x,,,,1861,proximasan,x,x,5
+Picenardi,Mauro,No,x,,,,1809,sureailabs,x,x,7
+Pimenov,Yuri Ivanovich,No,x,,,,1977,sureailabs,x,x,3
+Pinker,Stanley,No,x,,,,2012,sureailabs,x,x,11
 Pishtar,Julia,No,x,,,,N/A,sureailabs,x,x,14
-Pitt,Suzan,No,x,,,-,2019,sureailabs,x,x,4
-Podolchak,Ihor,No,x,,,-,N/A,sureailabs,x,x,4
+Pitt,Suzan,No,x,,,,2019,sureailabs,x,x,4
+Podolchak,Ihor,No,x,,,,N/A,sureailabs,x,x,4
 Pollem,Samson,No,x,No,x,"scene, comics",2018,sureailabs,x,x,13
 Pomodoro,Arnoldo,No,x,No,x,"sculpture, detailed",N/A,sureailabs,x,x,12
 Pontet,Cyril,No,x,,,,N/A,proximasan,x,x,12
-Powers,Richard M.,No,x,,,-,1996,sureailabs,x,x,4
-Poyser,Victoria,No,x,,,-,N/A,sureailabs,x,x,4
+Powers,Richard M.,No,x,,,,1996,sureailabs,x,x,4
+Poyser,Victoria,No,x,,,,N/A,sureailabs,x,x,4
 Pratt,Hugo,No,x,,,,1995,sureailabs,x,x,15
 Prezio,Victor,No,x,No,x,"scene, character",N/A,sureailabs,x,x,13
-Prins,Theo,No,x,,,-,N/A,sureailabs,x,x,9
+Prins,Theo,No,x,,,,N/A,sureailabs,x,x,9
 Pui-Mun Law,Stephanie,No,x,,,,N/A,sureailabs,x,x,15
-Purser,Sarah,No,x,,,-,1943,proximasan,x,x,8
-Pushwagner,Hariton,No,x,,,-,2018,sureailabs,x,x,7
+Purser,Sarah,No,x,,,,1943,proximasan,x,x,8
+Pushwagner,Hariton,No,x,,,,2018,sureailabs,x,x,7
 Quevedo,Carlos,No,x,,,,N/A,sureailabs,x,x,13
-Quiller,Stephen,No,x,,,-,N/A,sureailabs,x,x,11
-Quirt,Walter,No,x,No,x,-,1968,sureailabs,x,x,12
-Qwek,Dom,No,x,,,-,N/A,sureailabs,x,x,7
-Ranpo,Edogawa,No,x,,,-,1965,sureailabs,x,x,12
+Quiller,Stephen,No,x,,,,N/A,sureailabs,x,x,11
+Quirt,Walter,No,x,No,x,,1968,sureailabs,x,x,12
+Qwek,Dom,No,x,,,,N/A,sureailabs,x,x,7
+Ranpo,Edogawa,No,x,,,,1965,sureailabs,x,x,12
 Rapmund,Norm,No,x,,,,N/A,sureailabs,x,x,12
-Rapoza,Dave,No,x,,,-,N/A,sureailabs,x,x,10
-Rattner,Abraham,No,x,,,-,1978,sureailabs,x,x,4
+Rapoza,Dave,No,x,,,,N/A,sureailabs,x,x,10
+Rattner,Abraham,No,x,,,,1978,sureailabs,x,x,4
 Ratzeburg,Julius Theodor Christian,No,x,,,,1871,sureailabs,x,x,16
 Ravanetti,Elias,No,x,,,,N/A,sureailabs,x,x,12
 Ravelo,Mars,No,x,,,,1988,sureailabs,x,x,13
-Razumovskaya,Anna,No,x,No,x,-,N/A,sureailabs,x,x,12
+Razumovskaya,Anna,No,x,No,x,,N/A,sureailabs,x,x,12
 Rebelka,Jakub,No,x,Yes,x,"surrealism, fantasy",N/A,sureailabs,x,x,12
-Reindel,Edna,No,x,,,-,1990,sureailabs,x,x,4
-Reopel,Joyce,No,x,,,-,2019,sureailabs,x,x,4
-Rezaei,Aminollah,No,x,,,-,2004,proximasan,x,x,4
-Rhoades,Jason,No,x,,,-,2006,sureailabs,x,x,10
+Reindel,Edna,No,x,,,,1990,sureailabs,x,x,4
+Reopel,Joyce,No,x,,,,2019,sureailabs,x,x,4
+Rezaei,Aminollah,No,x,,,,2004,proximasan,x,x,4
+Rhoades,Jason,No,x,,,,2006,sureailabs,x,x,10
 Rhodes,Matt,No,x,,,,N/A,sureailabs,x,x,16
 Riley,John,No,x,,,,1691,sureailabs,x,x,13
-Rimmington,Edith,No,x,,,-,1986,sureailabs,x,x,3
-Ringwood,Bob,No,x,,,-,N/A,sureailabs,x,x,2
-Riou,Édouard,No,x,,,-,1900,proximasan,x,x,5
-Rixens,Jean-André,No,x,,,-,1925,sureailabs,x,x,7
+Rimmington,Edith,No,x,,,,1986,sureailabs,x,x,3
+Ringwood,Bob,No,x,,,,N/A,sureailabs,x,x,2
+Riou,Édouard,No,x,,,,1900,proximasan,x,x,5
+Rixens,Jean-André,No,x,,,,1925,sureailabs,x,x,7
 Roberts,Slade,No,x,,,,N/A,sureailabs,x,x,15
-Robida,Albert,No,x,,,-,1926,sureailabs,x,x,4
-Robinson,Alex,No,x,,,-,N/A,sureailabs,x,x,7
+Robida,Albert,No,x,,,,1926,sureailabs,x,x,4
+Robinson,Alex,No,x,,,,N/A,sureailabs,x,x,7
 Rogers,Henri (Henry),No,x,,,,N/A,sureailabs,x,x,14,Death date could not be found; likely more than one artist
 Rokkaku,Ayako,No,x,,,,N/A,sureailabs,x,x,14
-Rolick,Esther,No,x,,,-,2008,sureailabs,x,x,3
-Rosemont,Penelope,No,x,,,-,N/A,sureailabs,x,x,4
-Rosenstein,Erna,No,x,,,-,2004,EErratica,x,x,3
+Rolick,Esther,No,x,,,,2008,sureailabs,x,x,3
+Rosemont,Penelope,No,x,,,,N/A,sureailabs,x,x,4
+Rosenstein,Erna,No,x,,,,2004,EErratica,x,x,3
 Rousseau,Theodore,No,x,,,,1867,sureailabs,x,x,13
 Roy,Pierre,No,x,,,,1950,sureailabs,x,x,13
-Roybal,Antonio,No,x,,,-,N/A,sureailabs,x,x,4
+Roybal,Antonio,No,x,,,,N/A,sureailabs,x,x,4
 Rungius,Carl,No,x,,,,1959,sureailabs,x,x,14
-Runyan,Pablo,No,x,,,-,2002,proximasan,x,x,4
-Ryky,N/A,No,x,,,-,N/A,sureailabs,x,x,3,AKA Zdenek Cehelsky
-Sack,Benjamin,No,x,No,x,-,N/A,sureailabs,x,x,8
-Saga,Soraya,No,x,,,-,N/A,proximasan,x,x,7
-Sakimichan,N/A,No,x,,,-,N/A,EErratica,x,x,3
-Sallinen,Tyko,No,x,,,-,1955,sureailabs,x,x,4
-Sanderson,Ruth,No,x,,,-,N/A,EErratica,x,x,3
+Runyan,Pablo,No,x,,,,2002,proximasan,x,x,4
+Ryky,N/A,No,x,,,,N/A,sureailabs,x,x,3,AKA Zdenek Cehelsky
+Sack,Benjamin,No,x,No,x,,N/A,sureailabs,x,x,8
+Saga,Soraya,No,x,,,,N/A,proximasan,x,x,7
+Sakimichan,N/A,No,x,,,,N/A,EErratica,x,x,3
+Sallinen,Tyko,No,x,,,,1955,sureailabs,x,x,4
+Sanderson,Ruth,No,x,,,,N/A,EErratica,x,x,3
 Sandoval,Tony,No,x,,,,N/A,sureailabs,x,x,12
-Sasselli,Davide,No,x,,,-,N/A,sureailabs,x,x,7
-Schawinsky,Xanti,No,x,,,-,1979,sureailabs,x,x,4
+Sasselli,Davide,No,x,,,,N/A,sureailabs,x,x,7
+Schawinsky,Xanti,No,x,,,,1979,sureailabs,x,x,4
 Scheiner,Artus,No,x,,,,1938,sureailabs,x,x,16
-Schepacz,Yohann,No,x,,,-,N/A,sureailabs,x,x,7
-Schnackenberg,Walter,No,x,,,-,1961,proximasan,x,x,5
-Schoenberg,Arnold,No,x,,,-,1951,sureailabs,x,x,4
-Schomburg,Alex,No,x,,,-,1998,sureailabs,x,x,4
+Schepacz,Yohann,No,x,,,,N/A,sureailabs,x,x,7
+Schnackenberg,Walter,No,x,,,,1961,proximasan,x,x,5
+Schoenberg,Arnold,No,x,,,,1951,sureailabs,x,x,4
+Schomburg,Alex,No,x,,,,1998,sureailabs,x,x,4
 Schuler,Théophile,No,x,,,,1878,sureailabs,x,x,13
-Schwertberger,De Es,No,x,No,x,-,N/A,sureailabs,x,x,2
+Schwertberger,De Es,No,x,No,x,,N/A,sureailabs,x,x,2
 Scott,Richard T.,No,x,,,,N/A,sureailabs,x,x,15
-Segall,Lasar,No,x,,,-,1957,sureailabs,x,x,3
-Sekine,Nobuo,No,x,,,-,2019,proximasan,x,x,12
+Segall,Lasar,No,x,,,,1957,sureailabs,x,x,3
+Sekine,Nobuo,No,x,,,,2019,proximasan,x,x,12
 Sekoto,Gerard,No,x,Yes,x,"impressionism, melanin",1993,sureailabs,x,x,13
 Sekowsky,Mike,No,x,,,,1989,sureailabs,x,x,14
-Selimoglu,Niyazi,No,x,,,-,N/A,sureailabs,x,x,8
-Senosiain,Javier,No,x,,,-,N/A,proximasan,x,x,7
+Selimoglu,Niyazi,No,x,,,,N/A,sureailabs,x,x,8
+Senosiain,Javier,No,x,,,,N/A,proximasan,x,x,7
 Serafini,Luigi,No,x,,,,N/A,sureailabs,x,x,10
-Servaes,Albert,No,x,,,-,1966,sureailabs,x,x,4
-Setowski,Tomek,No,x,,,-,N/A,KyrickYoung,x,x,2
-Shaw-Lawrence,Bettina,No,x,,,-,2018,sureailabs,x,x,11
+Servaes,Albert,No,x,,,,1966,sureailabs,x,x,4
+Setowski,Tomek,No,x,,,,N/A,KyrickYoung,x,x,2
+Shaw-Lawrence,Bettina,No,x,,,,2018,sureailabs,x,x,11
 Shengxian,Qiu,No,x,,,,N/A,sureailabs,x,x,16
-Shimamoto,Julio,No,x,,,-,N/A,sureailabs,x,x,7
+Shimamoto,Julio,No,x,,,,N/A,sureailabs,x,x,7
 Shimomura,Kanzan,No,x,,,,1930,sureailabs,x,x,14
 Shinohara,Tamotsu,No,x,,,,N/A,sureailabs,x,x,14
-Shoulberg,Harry,No,x,,,-,1995,sureailabs,x,x,4
+Shoulberg,Harry,No,x,,,,1995,sureailabs,x,x,4
 Shuxing,Li,No,x,,,,N/A,sureailabs,x,x,15
-Silva,Emerson,No,x,,,-,N/A,sureailabs,x,x,7
-Silva,Samuel,No,x,,,-,N/A,sureailabs,x,x,7
-Siudmak,Wojciech,No,x,No,x,-,N/A,sureailabs,x,x,1
-Skizhali-Weiss,Arthur,No,x,No,x,-,1980,sureailabs,x,x,2,AKA Артур Скижали-Вейc
-Sluyters,Jan,No,x,,,-,1957,sureailabs,x,x,3
-Small,Jane,No,x,,,-,N/A,sureailabs,x,x,11
-Smeeth,Peter,No,x,,,-,N/A,sureailabs,x,x,6
-Smith,Michael James,No,x,,,-,N/A,sureailabs,x,x,7
-Smith,Samuel,No,x,,,-,N/A,sureailabs,x,x,7
-Sorel,Guillaume,No,x,,,-,N/A,sureailabs,x,x,11
+Silva,Emerson,No,x,,,,N/A,sureailabs,x,x,7
+Silva,Samuel,No,x,,,,N/A,sureailabs,x,x,7
+Siudmak,Wojciech,No,x,No,x,,N/A,sureailabs,x,x,1
+Skizhali-Weiss,Arthur,No,x,No,x,,1980,sureailabs,x,x,2,AKA Артур Скижали-Вейc
+Sluyters,Jan,No,x,,,,1957,sureailabs,x,x,3
+Small,Jane,No,x,,,,N/A,sureailabs,x,x,11
+Smeeth,Peter,No,x,,,,N/A,sureailabs,x,x,6
+Smith,Michael James,No,x,,,,N/A,sureailabs,x,x,7
+Smith,Samuel,No,x,,,,N/A,sureailabs,x,x,7
+Sorel,Guillaume,No,x,,,,N/A,sureailabs,x,x,11
 Souza,Francis Newton,No,x,,,,2002,sureailabs,x,x,16
 Spangler,Randal,No,x,,,,N/A,sureailabs,x,x,16
-Spriggs,Ian,No,x,,,-,N/A,sureailabs,x,x,10
-Starowieyski,Franciszek,No,x,,,-,2009,sureailabs,x,x,9
-Starr,Leonard,No,x,No,x,-,2015,sureailabs,x,x,10
-Sternberg,Harry,No,x,,,-,2001,sureailabs,x,x,4
+Spriggs,Ian,No,x,,,,N/A,sureailabs,x,x,10
+Starowieyski,Franciszek,No,x,,,,2009,sureailabs,x,x,9
+Starr,Leonard,No,x,No,x,,2015,sureailabs,x,x,10
+Sternberg,Harry,No,x,,,,2001,sureailabs,x,x,4
 Stone,Chase,No,x,,,,N/A,sureailabs,x,x,16
-Sudworth,Anne,No,x,,,-,N/A,sureailabs,x,x,4
-Sugiura,Hisui,No,x,,,-,1965,sureailabs,x,x,10
-Sultan Mohammed,N/A,No,x,,,-,1555,sureailabs,x,x,4
+Sudworth,Anne,No,x,,,,N/A,sureailabs,x,x,4
+Sugiura,Hisui,No,x,,,,1965,sureailabs,x,x,10
+Sultan Mohammed,N/A,No,x,,,,1555,sureailabs,x,x,4
 Summers,Scott Samuel,No,x,No,x,"character, comics",N/A,KyrickYoung,x,x,2,This artist doesn't exist
-Sustermans,Justus,No,x,,,-,1681,sureailabs,x,x,9
-Švankmajerová,Eva,No,x,,,-,2005,sureailabs,x,x,4
+Sustermans,Justus,No,x,,,,1681,sureailabs,x,x,9
+Švankmajerová,Eva,No,x,,,,2005,sureailabs,x,x,4
 Sviridova,Myroslava,No,x,,,,N/A,sureailabs,x,x,16
-Sykut,Andrzej,No,x,,,-,N/A,sureailabs,x,x,4
-Tábara,Enrique,No,x,,,-,2021,sureailabs,x,x,4
-Tacito,Franck,No,x,,,-,N/A,sureailabs,x,x,8
+Sykut,Andrzej,No,x,,,,N/A,sureailabs,x,x,4
+Tábara,Enrique,No,x,,,,2021,sureailabs,x,x,4
+Tacito,Franck,No,x,,,,N/A,sureailabs,x,x,8
 Taga,Shin,No,x,,,,N/A,sureailabs,x,x,13
 Takeda,Sana,No,x,,,,N/A,sureailabs,x,x,12
-Takeji,Fujishima,No,x,,,-,1943,sureailabs,x,x,7
+Takeji,Fujishima,No,x,,,,1943,sureailabs,x,x,7
 Takeya,Takayuki,No,x,,,,N/A,sureailabs,x,x,12
 Tam,Vivienne,No,x,,,,N/A,sureailabs,x,x,13
-Tanaka,Suguru,No,x,No,x,-,N/A,sureailabs,x,x,3
-Tanaka,Tatsuyuki,No,x,,,-,N/A,sureailabs,x,x,7
-Tang,Sandara,No,x,,,-,N/A,sureailabs,x,x,8
-Tarnowski,Artur,No,x,,,-,N/A,sureailabs,x,x,11,At least two artists by this name
-Tassi,Agostino,No,x,,,-,1644,sureailabs,x,x,4
-Tatsushima,Yuko,No,x,,,-,N/A,sureailabs,x,x,7
-Télémaque,Hervé,No,x,,,-,N/A,sureailabs,x,x,4
-Teng,Chuah Thean,No,x,,,-,2008,sureailabs,x,x,12
+Tanaka,Suguru,No,x,No,x,,N/A,sureailabs,x,x,3
+Tanaka,Tatsuyuki,No,x,,,,N/A,sureailabs,x,x,7
+Tang,Sandara,No,x,,,,N/A,sureailabs,x,x,8
+Tarnowski,Artur,No,x,,,,N/A,sureailabs,x,x,11,At least two artists by this name
+Tassi,Agostino,No,x,,,,1644,sureailabs,x,x,4
+Tatsushima,Yuko,No,x,,,,N/A,sureailabs,x,x,7
+Télémaque,Hervé,No,x,,,,N/A,sureailabs,x,x,4
+Teng,Chuah Thean,No,x,,,,2008,sureailabs,x,x,12
 Teraoka,Masami,No,x,,,,N/A,sureailabs,x,x,14
-Tertychnyi,Eugene,No,x,,,-,N/A,sureailabs,x,x,7,"Name has an effect, but artist's style is not represented"
-Tessari,Vittorio,No,x,,,-,1947,proximasan,x,x,7
-Thirion,Charles Victor,No,x,,,-,1878,sureailabs,x,x,11
+Tertychnyi,Eugene,No,x,,,,N/A,sureailabs,x,x,7,"Name has an effect, but artist's style is not represented"
+Tessari,Vittorio,No,x,,,,1947,proximasan,x,x,7
+Thirion,Charles Victor,No,x,,,,1878,sureailabs,x,x,11
 Thomas,Nene,No,x,,,,N/A,sureailabs,x,x,14
 Thompson,Craig,No,x,,,,N/A,sureailabs,x,x,14
-Thornton,Robert John,No,x,,,-,1837,proximasan,x,x,9
-Tiefu,Li,No,x,,,-,1952,sureailabs,x,x,8
+Thornton,Robert John,No,x,,,,1837,proximasan,x,x,9
+Tiefu,Li,No,x,,,,1952,sureailabs,x,x,8
 Toraji,N/A,No,x,,,,N/A,sureailabs,x,x,15
-Törneman,Axel,No,x,,,-,1925,sureailabs,x,x,4
+Törneman,Axel,No,x,,,,1925,sureailabs,x,x,4
 Totleben,John,No,x,,,,N/A,sureailabs,x,x,16
-Toyen,N/A,No,x,,,-,1980,sureailabs,x,x,4,AKA Marie Čermínová
-Trouille,Clovis,No,x,,,-,1975,proximasan,x,x,2
-Tucker,Albert,No,x,,,-,1999,sureailabs,x,x,4
-Ugarte,Jean-Pierre,No,x,No,x,-,N/A,sureailabs,x,x,11
-Urlich,Philipp,No,x,No,x,-,N/A,sureailabs,x,x,4
+Toyen,N/A,No,x,,,,1980,sureailabs,x,x,4,AKA Marie Čermínová
+Trouille,Clovis,No,x,,,,1975,proximasan,x,x,2
+Tucker,Albert,No,x,,,,1999,sureailabs,x,x,4
+Ugarte,Jean-Pierre,No,x,No,x,,N/A,sureailabs,x,x,11
+Urlich,Philipp,No,x,No,x,,N/A,sureailabs,x,x,4
 Vaikuntam,Thota,No,x,,,,N/A,sureailabs,x,x,16
-Valetova,Nina,No,x,,,-,N/A,sureailabs,x,x,5
+Valetova,Nina,No,x,,,,N/A,sureailabs,x,x,5
 Valeza,Brian,No,x,,,,N/A,sureailabs,x,x,16
-Valigursky,Ed,No,x,,,-,2009,sureailabs,x,x,11
+Valigursky,Ed,No,x,,,,2009,sureailabs,x,x,11
 van der Hamen,Juan,No,x,,,,1631,sureailabs,x,x,15
 Van der Ouderaa,Pierre Jean,No,x,,,,1915,sureailabs,x,x,15
-van Ravesteyn,Jan,No,x,,,-,1657,sureailabs,x,x,9
+van Ravesteyn,Jan,No,x,,,,1657,sureailabs,x,x,9
 Van Suddese,Kate,No,x,,,,N/A,sureailabs,x,x,12
 Vargas,Randy,No,x,,,,N/A,sureailabs,x,x,13
-Velez,Walter,No,x,,,-,2018,sureailabs,x,x,4
-Velinov,Svetlin,No,x,,,-,N/A,sureailabs,x,x,8
-Venosa,Robert,No,x,,,-,2011,sureailabs,x,x,4
-Veprikov,Nikita,No,x,,,-,N/A,sureailabs,x,x,9
-Vergvoktre,N/A,No,x,No,x,-,N/A,sureailabs,x,x,4
+Velez,Walter,No,x,,,,2018,sureailabs,x,x,4
+Velinov,Svetlin,No,x,,,,N/A,sureailabs,x,x,8
+Venosa,Robert,No,x,,,,2011,sureailabs,x,x,4
+Veprikov,Nikita,No,x,,,,N/A,sureailabs,x,x,9
+Vergvoktre,N/A,No,x,No,x,,N/A,sureailabs,x,x,4
 Verner,Frederick Arthur,No,x,,,,1928,sureailabs,x,x,14
 Verney-Carron,Antoine,No,x,,,,N/A,sureailabs,x,x,15
-Vicente,Esteban,No,x,,,-,2001,proximasan,x,x,1
+Vicente,Esteban,No,x,,,,2001,proximasan,x,x,1
 Visconti,Eliseu,No,x,,,,1944,sureailabs,x,x,14
-Vishnevsky,Dmitry,No,x,,,-,N/A,KyrickYoung,x,x,1
-Vohwinkel,Franz,No,x,,,-,N/A,sureailabs,x,x,7
+Vishnevsky,Dmitry,No,x,,,,N/A,KyrickYoung,x,x,1
+Vohwinkel,Franz,No,x,,,,N/A,sureailabs,x,x,7
 Voligamsi,Rinat,No,x,Yes,x,"surrealism, dark",N/A,sureailabs,x,x,4
 von Aachen,Hans,No,x,,,,1615,sureailabs,x,x,14
-von Pettenkofen,August,No,x,,,-,1889,sureailabs,x,x,11
+von Pettenkofen,August,No,x,,,,1889,sureailabs,x,x,11
 Wagner,Matt,No,x,,,,N/A,sureailabs,x,x,12
-Waldberg,Isabelle,No,x,,,-,1990,sureailabs,x,x,4
-Walker,John,No,x,,,-,N/A,sureailabs,x,x,4
-Walker,Robert,No,x,,,-,1951,sureailabs,x,x,11
+Waldberg,Isabelle,No,x,,,,1990,sureailabs,x,x,4
+Walker,John,No,x,,,,N/A,sureailabs,x,x,4
+Walker,Robert,No,x,,,,1951,sureailabs,x,x,11
 Wałkuski,Wiesław,No,x,,,,N/A,sureailabs,x,x,15
 Walpole,Tyler,No,x,,,,N/A,sureailabs,x,x,12
-Wänerstrand,Tom,No,x,,,-,N/A,sureailabs,x,x,7
-Watanabe,Junya,No,x,,,-,N/A,sureailabs,x,x,11
+Wänerstrand,Tom,No,x,,,,N/A,sureailabs,x,x,7
+Watanabe,Junya,No,x,,,,N/A,sureailabs,x,x,11
 Weaver,Scott,No,x,,,,N/A,sureailabs,x,x,15
-Weber Furlong,Wilhelmina,No,x,,,-,1962,sureailabs,x,x,4
-Weenix,Jan,No,x,,,-,1719,sureailabs,x,x,12
+Weber Furlong,Wilhelmina,No,x,,,,1962,sureailabs,x,x,4
+Weenix,Jan,No,x,,,,1719,sureailabs,x,x,12
 Weissenbruch,Hendrik,No,x,,,,1903,sureailabs,x,x,15
-Weiwei,Ai,No,x,,,-,N/A,sureailabs,x,x,2
-Werkman,H.N.,No,x,,,-,1945,sureailabs,x,x,4
+Weiwei,Ai,No,x,,,,N/A,sureailabs,x,x,2
+Werkman,H.N.,No,x,,,,1945,sureailabs,x,x,4
 White,Charles,No,x,,,,1979,sureailabs,x,x,13
-Wiegers,Jan,No,x,,,-,1959,sureailabs,x,x,4
-Wiiralt,Eduard,No,x,No,x,-,1954,sureailabs,x,x,4
+Wiegers,Jan,No,x,,,,1959,sureailabs,x,x,4
+Wiiralt,Eduard,No,x,No,x,,1954,sureailabs,x,x,4
 Wilkins,Sophie,No,x,,,,N/A,sureailabs,x,x,14
 Willers,Heike,No,x,,,,N/A,sureailabs,x,x,14
-Williams,Allen,No,x,,,-,N/A,sureailabs,x,x,7
-Wilson,G. Willow,No,x,,,-,N/A,sureailabs,x,x,10
+Williams,Allen,No,x,,,,N/A,sureailabs,x,x,7
+Wilson,G. Willow,No,x,,,,N/A,sureailabs,x,x,10
 Wilson,Wes,No,x,,,,2020,sureailabs,x,x,15
 Winnel,Bec,No,x,Yes,x,"portrait, flowers",N/A,sureailabs,x,x,15
-Witkiewicz,Stanisław Ignacy,No,x,,,-,1939,sureailabs,x,x,7
+Witkiewicz,Stanisław Ignacy,No,x,,,,1939,sureailabs,x,x,7
 WLOP,N/A,No,x,Yes,x,"character, portrait, digital",N/A,proximasan,x,x,4
 Wong,Ina,No,x,,,,N/A,sureailabs,x,x,14
-Wooten,Ben,No,x,,,-,N/A,sureailabs,x,x,10
+Wooten,Ben,No,x,,,,N/A,sureailabs,x,x,10
 Wright,Richard,No,x,,,,1960,sureailabs,x,x,14
-Wurm,Edwin,No,x,,,-,N/A,proximasan,x,x,10
-Xandt,Hedi,No,x,No,x,-,N/A,proximasan,x,x,8
-Yang,J,No,x,,,-,N/A,sureailabs,x,x,7
-Yanner,Kieran,No,x,,,-,N/A,sureailabs,x,x,11
-Yasuhiko,Yoshikazu,No,x,,,-,N/A,proximasan,x,x,5
-Yatate,Hajime,No,x,,,-,N/A,sureailabs,x,x,8
-Yazawa,Ai,No,x,,,-,N/A,sureailabs,x,x,11
+Wurm,Edwin,No,x,,,,N/A,proximasan,x,x,10
+Xandt,Hedi,No,x,No,x,,N/A,proximasan,x,x,8
+Yang,J,No,x,,,,N/A,sureailabs,x,x,7
+Yanner,Kieran,No,x,,,,N/A,sureailabs,x,x,11
+Yasuhiko,Yoshikazu,No,x,,,,N/A,proximasan,x,x,5
+Yatate,Hajime,No,x,,,,N/A,sureailabs,x,x,8
+Yazawa,Ai,No,x,,,,N/A,sureailabs,x,x,11
 Yokai,Kozo,No,x,,,children's illustration,1965,sureailabs,x,x,15
-Yoshitoyo,Fujii,No,x,,,-,1968,sureailabs,x,x,11,Death year could not be found. Year is 100 years from birth in 1868
-Yoshiyasu,Tamura,No,x,,,-,N/A,sureailabs,x,x,11
-Youll,Paul,No,x,,,-,N/A,sureailabs,x,x,12
-Younan,Ramses,No,x,,,-,1966,proximasan,x,x,2
-Zabrocki,Darek,No,x,,,-,N/A,proximasan,x,x,7
-Zacherle,Bonnie,No,x,,,-,N/A,sureailabs,x,x,11
+Yoshitoyo,Fujii,No,x,,,,1968,sureailabs,x,x,11,Death year could not be found. Year is 100 years from birth in 1868
+Yoshiyasu,Tamura,No,x,,,,N/A,sureailabs,x,x,11
+Youll,Paul,No,x,,,,N/A,sureailabs,x,x,12
+Younan,Ramses,No,x,,,,1966,proximasan,x,x,2
+Zabrocki,Darek,No,x,,,,N/A,proximasan,x,x,7
+Zacherle,Bonnie,No,x,,,,N/A,sureailabs,x,x,11
 Zand,Amir,No,x,Yes,x,"sci-fi, digital, vibrant",N/A,proximasan,x,x,1
-Zangana,Haifa,No,x,,,-,N/A,sureailabs,x,x,4
-Zaragoza,Gilberto Soren,No,x,,,-,N/A,sureailabs,x,x,11
-Zawadzki,Dariusz,No,x,No,x,-,N/A,sureailabs,x,x,3
-Zerbe,Karl,No,x,,,-,1972,sureailabs,x,x,4
-Ziewe,Jurgen,No,x,,,-,N/A,sureailabs,x,x,4
-Ziraldo,Lorena,No,x,,,-,N/A,sureailabs,x,x,7,Has effect but artist's style not represented
-Ziraldo,N/A,No,x,,,-,N/A,sureailabs,x,x,7,AKA Ziraldo Alves Pinto; has effect but artist's style not represented
-Zürn,Unica,No,x,,,-,1970,KyrickYoung,x,x,2
-Скижали-Вейс,Артур,No,x,,,-,1980,sureailabs,x,x,2,AKA Arthur Skizhali-Weiss
-"""a beautiful painting""",N/A,Control,x,,,-,-,sureailabs,x,x,2,Control
-"""a beautiful painting"" + ""Trending on artstation.""",N/A,Control,x,,,-,-,sureailabs,x,x,2,Control
-"""Trending on artstation.""",N/A,Control,x,,,-,-,sureailabs,x,x,2,Control
-base prompt only,N/A,Control,x,,,-,-,sureailabs,x,x,2,Control
+Zangana,Haifa,No,x,,,,N/A,sureailabs,x,x,4
+Zaragoza,Gilberto Soren,No,x,,,,N/A,sureailabs,x,x,11
+Zawadzki,Dariusz,No,x,No,x,,N/A,sureailabs,x,x,3
+Zerbe,Karl,No,x,,,,1972,sureailabs,x,x,4
+Ziewe,Jurgen,No,x,,,,N/A,sureailabs,x,x,4
+Ziraldo,Lorena,No,x,,,,N/A,sureailabs,x,x,7,Has effect but artist's style not represented
+Ziraldo,N/A,No,x,,,,N/A,sureailabs,x,x,7,AKA Ziraldo Alves Pinto; has effect but artist's style not represented
+Zürn,Unica,No,x,,,,1970,KyrickYoung,x,x,2
+Скижали-Вейс,Артур,No,x,,,,1980,sureailabs,x,x,2,AKA Arthur Skizhali-Weiss
+"""a beautiful painting""",N/A,Control,x,,,,,sureailabs,x,x,2,Control
+"""a beautiful painting"" + ""Trending on artstation.""",N/A,Control,x,,,,,sureailabs,x,x,2,Control
+"""Trending on artstation.""",N/A,Control,x,,,,,sureailabs,x,x,2,Control
+base prompt only,N/A,Control,x,,,,,sureailabs,x,x,2,Control
 Shinsui,Ito,Yes,x,,,,1972,proximasan,x,x,17
 Shiraga,Kazuo,Yes,x,,,,2008,proximasan,x,x,17
 Shortridge,Stephen,Yes,x,,,,N/A,proximasan,x,x,17
