@@ -1,4 +1,4 @@
-# [🦜 parrot zone](https://parrotzone.art) wildcards
+# [🦜 parrot zone](https://proximacentaurib.notion.site/74a5c04d4feb4f12b52a41fc8750b205) wildcards
 
 Data sourced from the following resources:
 - [🎨
